@@ -404,7 +404,12 @@ angry:
     - 5.1.0
   label: Angry Face
   search:
-    terms: []
+    terms:
+      - disapprove
+      - emoticon
+      - face
+      - mad
+      - upset
   styles:
     - solid
     - regular
@@ -500,6 +505,7 @@ archway:
   label: Archway
   search:
     terms:
+      - arc
       - monument
       - road
       - street
@@ -1152,6 +1158,7 @@ atlas:
   search:
     terms:
       - book
+      - directions
       - geography
       - map
       - wayfinding
@@ -1213,7 +1220,12 @@ award:
     - 5.1.0
   label: Award
   search:
-    terms: []
+    terms:
+      - honor
+      - praise
+      - prize
+      - recognition
+      - ribbon
   styles:
     - solid
     - regular
@@ -1619,6 +1631,8 @@ bed:
   label: Bed
   search:
     terms:
+      - lodging
+      - sleep
       - travel
   styles:
     - solid
@@ -1966,8 +1980,10 @@ book-open:
   label: Book Open
   search:
     terms:
+      - flyer
       - notebook
       - open book
+      - pamphlet
       - reading
   styles:
     - solid
@@ -2248,6 +2264,7 @@ brush:
     terms:
       - bristles
       - color
+      - handle
       - painting
   styles:
     - solid
@@ -3087,7 +3104,21 @@ check-double:
     - 5.1.0
   label: Check Double
   search:
-    terms: []
+    terms:
+      - accept
+      - agree
+      - checkmark
+      - confirm
+      - correct
+      - done
+      - notice
+      - notification
+      - notify
+      - ok
+      - select
+      - success
+      - tick
+      - todo
   styles:
     - solid
     - regular
@@ -3830,6 +3861,7 @@ code-branch:
 code-commit:
   changes:
     - 5.0.0
+    - 5.1.1
   label: Code Commit
   search:
     terms:
@@ -4097,7 +4129,8 @@ comment-alt-smile:
     - 5.0.9
   label: Alternate Comment Smile
   search:
-    terms: []
+    terms:
+      - happy
   styles:
     - solid
     - regular
@@ -4412,7 +4445,13 @@ cookie:
     - 5.1.0
   label: Cookie
   search:
-    terms: []
+    terms:
+      - baked good
+      - chips
+      - food
+      - snack
+      - sweet
+      - treat
   styles:
     - solid
     - regular
@@ -4423,7 +4462,15 @@ cookie-bite:
     - 5.1.0
   label: Cookie Bite
   search:
-    terms: []
+    terms:
+      - baked good
+      - bitten
+      - chips
+      - eating
+      - food
+      - snack
+      - sweet
+      - treat
   styles:
     - solid
     - regular
@@ -5136,7 +5183,11 @@ dizzy:
     - 5.1.0
   label: Dizzy Face
   search:
-    terms: []
+    terms:
+      - dazed
+      - disapprove
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -5335,7 +5386,10 @@ drafting-compass:
     - 5.1.0
   label: Drafting Compass
   search:
-    terms: []
+    terms:
+      - mechanical drawing
+      - plot
+      - plotting
   styles:
     - solid
     - regular
@@ -5375,7 +5429,12 @@ drum:
     - 5.1.0
   label: Drum
   search:
-    terms: []
+    terms:
+      - instrument
+      - music
+      - percussion
+      - snare
+      - sound
   styles:
     - solid
     - regular
@@ -5386,7 +5445,16 @@ drum-steelpan:
     - 5.1.0
   label: Drum Steelpan
   search:
-    terms: []
+    terms:
+      - calypso
+      - instrument
+      - music
+      - percussion
+      - reggae
+      - snare
+      - sound
+      - steel
+      - tropical
   styles:
     - solid
     - regular
@@ -6145,7 +6213,11 @@ feather:
     - 5.1.0
   label: Feather
   search:
-    terms: []
+    terms:
+      - bird
+      - light
+      - plucked
+      - quill
   styles:
     - solid
     - regular
@@ -6156,7 +6228,11 @@ feather-alt:
     - 5.1.0
   label: Feather Alt
   search:
-    terms: []
+    terms:
+      - bird
+      - light
+      - plucked
+      - quill
   styles:
     - solid
     - regular
@@ -6587,7 +6663,11 @@ fill:
     - 5.1.0
   label: Fill
   search:
-    terms: []
+    terms:
+      - bucket
+      - color
+      - paint
+      - paint bucket
   styles:
     - solid
     - regular
@@ -6598,7 +6678,13 @@ fill-drip:
     - 5.1.0
   label: Fill Drip
   search:
-    terms: []
+    terms:
+      - bucket
+      - color
+      - drop
+      - paint
+      - paint bucket
+      - spill
   styles:
     - solid
     - regular
@@ -6647,7 +6733,15 @@ fingerprint:
     - 5.1.0
   label: Fingerprint
   search:
-    terms: []
+    terms:
+      - human
+      - id
+      - identification
+      - lock
+      - smudge
+      - touch
+      - unique
+      - unlock
   styles:
     - solid
     - regular
@@ -6815,7 +6909,10 @@ flushed:
     - 5.1.0
   label: Flushed Face
   search:
-    terms: []
+    terms:
+      - embarrassed
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -6903,6 +7000,7 @@ font-awesome-logo-full:
   label: Font Awesome Full Logo
   ligatures:
     - Font Awesome
+  private: true
   search:
     terms: []
   styles:
@@ -7090,7 +7188,12 @@ frown-open:
     - 5.1.0
   label: Frowning Face With Open Mouth
   search:
-    terms: []
+    terms:
+      - disapprove
+      - emoticon
+      - face
+      - rating
+      - sad
   styles:
     - solid
     - regular
@@ -7695,7 +7798,10 @@ grimace:
     - 5.1.0
   label: Grimacing Face
   search:
-    terms: []
+    terms:
+      - cringe
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -7706,7 +7812,11 @@ grin:
     - 5.1.0
   label: Grinning Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - laugh
+      - smile
   styles:
     - solid
     - regular
@@ -7717,7 +7827,11 @@ grin-alt:
     - 5.1.0
   label: Alternate Grinning Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - laugh
+      - smile
   styles:
     - solid
     - regular
@@ -7728,7 +7842,11 @@ grin-beam:
     - 5.1.0
   label: Grinning Face With Smiling Eyes
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - laugh
+      - smile
   styles:
     - solid
     - regular
@@ -7739,7 +7857,10 @@ grin-beam-sweat:
     - 5.1.0
   label: Grinning Face With Sweat
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - smile
   styles:
     - solid
     - regular
@@ -7750,7 +7871,11 @@ grin-hearts:
     - 5.1.0
   label: Smiling Face With Heart-Eyes
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - love
+      - smile
   styles:
     - solid
     - regular
@@ -7761,7 +7886,11 @@ grin-squint:
     - 5.1.0
   label: Grinning Squinting Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - laugh
+      - smile
   styles:
     - solid
     - regular
@@ -7772,7 +7901,11 @@ grin-squint-tears:
     - 5.1.0
   label: Rolling on the Floor Laughing
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - happy
+      - smile
   styles:
     - solid
     - regular
@@ -7783,7 +7916,10 @@ grin-stars:
     - 5.1.0
   label: Star-Struck
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - star-struck
   styles:
     - solid
     - regular
@@ -7794,7 +7930,10 @@ grin-tears:
     - 5.1.0
   label: Face With Tears of Joy
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -7805,7 +7944,10 @@ grin-tongue:
     - 5.1.0
   label: Face With Tongue
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -7816,7 +7958,10 @@ grin-tongue-squint:
     - 5.1.0
   label: Squinting Face With Tongue
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -7827,7 +7972,10 @@ grin-tongue-wink:
     - 5.1.0
   label: Winking Face With Tongue
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -7836,9 +7984,15 @@ grin-tongue-wink:
 grin-wink:
   changes:
     - 5.1.0
+    - 5.1.1
   label: Grinning Winking Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - flirt
+      - laugh
+      - smile
   styles:
     - solid
     - regular
@@ -7851,6 +8005,8 @@ grip-horizontal:
   search:
     terms:
       - affordance
+      - drag
+      - drop
       - grab
       - handle
   styles:
@@ -7865,6 +8021,8 @@ grip-vertical:
   search:
     terms:
       - affordance
+      - drag
+      - drop
       - grab
       - handle
   styles:
@@ -8365,7 +8523,12 @@ headphones-alt:
     - 5.1.0
   label: Headphones Alt
   search:
-    terms: []
+    terms:
+      - audio
+      - listen
+      - music
+      - sound
+      - speaker
   styles:
     - solid
     - regular
@@ -8376,7 +8539,17 @@ headset:
     - 5.1.0
   label: Headset
   search:
-    terms: []
+    terms:
+      - audio
+      - gamer
+      - gaming
+      - listen
+      - live chat
+      - microphone
+      - shot caller
+      - sound
+      - support
+      - telemarketer
   styles:
     - solid
     - regular
@@ -9203,9 +9376,15 @@ kickstarter-k:
 kiss:
   changes:
     - 5.1.0
+    - 5.1.1
   label: Kissing Face
   search:
-    terms: []
+    terms:
+      - beso
+      - emoticon
+      - face
+      - love
+      - smooch
   styles:
     - solid
     - regular
@@ -9216,7 +9395,12 @@ kiss-beam:
     - 5.1.0
   label: Kissing Face With Smiling Eyes
   search:
-    terms: []
+    terms:
+      - beso
+      - emoticon
+      - face
+      - love
+      - smooch
   styles:
     - solid
     - regular
@@ -9227,7 +9411,12 @@ kiss-wink-heart:
     - 5.1.0
   label: Face Blowing a Kiss
   search:
-    terms: []
+    terms:
+      - beso
+      - emoticon
+      - face
+      - love
+      - smooch
   styles:
     - solid
     - regular
@@ -9271,7 +9460,13 @@ language:
     - 5.0.0
   label: Language
   search:
-    terms: []
+    terms:
+      - dialect
+      - idiom
+      - localize
+      - speech
+      - translate
+      - vernacular
   styles:
     - solid
     - regular
@@ -9336,7 +9531,11 @@ laugh:
     - 5.1.0
   label: Grinning Face With Big Eyes
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
+      - laugh
   styles:
     - solid
     - regular
@@ -9347,7 +9546,10 @@ laugh-beam:
     - 5.1.0
   label: Laugh Face with Beaming Eyes
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -9358,7 +9560,10 @@ laugh-squint:
     - 5.1.0
   label: Laughing Squinting Face
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -9369,7 +9574,10 @@ laugh-wink:
     - 5.1.0
   label: Laughing Winking Face
   search:
-    terms: []
+    terms:
+      - LOL
+      - emoticon
+      - face
   styles:
     - solid
     - regular
@@ -10347,7 +10555,11 @@ meh-blank:
     - 5.1.0
   label: Face Without Mouth
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - neutral
+      - rating
   styles:
     - solid
     - regular
@@ -10358,7 +10570,11 @@ meh-rolling-eyes:
     - 5.1.0
   label: Face With Rolling Eyes
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - neutral
+      - rating
   styles:
     - solid
     - regular
@@ -12686,6 +12902,7 @@ retweet-alt:
 rev:
   changes:
     - 5.1.0
+    - 5.1.1
   label: Rev.io
   search:
     terms: []
@@ -12877,7 +13094,11 @@ sad-cry:
     - 5.1.0
   label: Crying Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - tear
+      - tears
   styles:
     - solid
     - regular
@@ -12888,7 +13109,11 @@ sad-tear:
     - 5.1.0
   label: Loudly Crying Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - tear
+      - tears
   styles:
     - solid
     - regular
@@ -13719,7 +13944,10 @@ smile-beam:
     - 5.1.0
   label: Beaming Face With Smiling Eyes
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - happy
   styles:
     - solid
     - regular
@@ -13730,7 +13958,11 @@ smile-plus:
     - 5.0.9
     - 5.1.0
   label: Smiling Face Plus
-  search: 'terms []'
+  search:
+    terms:
+      - emoticon
+      - face
+      - happy
   styles:
     - solid
     - regular
@@ -13741,7 +13973,10 @@ smile-wink:
     - 5.1.0
   label: Winking Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - happy
   styles:
     - solid
     - regular
@@ -14597,7 +14832,10 @@ surprise:
     - 5.1.0
   label: Hushed Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - shocked
   styles:
     - solid
     - regular
@@ -15369,7 +15607,10 @@ tired:
     - 5.1.0
   label: Tired Face
   search:
-    terms: []
+    terms:
+      - emoticon
+      - face
+      - grumpy
   styles:
     - solid
     - regular
@@ -15423,7 +15664,12 @@ tooth:
     - 5.1.0
   label: Tooth
   search:
-    terms: []
+    terms:
+      - bicuspid
+      - dental
+      - molar
+      - mouth
+      - teeth
   styles:
     - solid
     - regular
@@ -16469,7 +16715,10 @@ vector-square:
     - 5.1.0
   label: Vector Square
   search:
-    terms: []
+    terms:
+      - anchors
+      - lines
+      - object
   styles:
     - solid
     - regular
