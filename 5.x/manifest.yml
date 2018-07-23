@@ -98,6 +98,17 @@ affiliatetheme:
   styles:
     - brands
   unicode: f36b
+air-freshener:
+  changes:
+    - 5.2.0
+  label: Air Freshener
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d0
 alarm-clock:
   changes:
     - 5.0.0
@@ -474,6 +485,17 @@ apple:
   styles:
     - brands
   unicode: f179
+apple-alt:
+  changes:
+    - 5.2.0
+  label: Fruit Apple
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d1
 apple-pay:
   changes:
     - 5.0.0
@@ -1167,6 +1189,28 @@ atlas:
     - regular
     - light
   unicode: f558
+atom:
+  changes:
+    - 5.2.0
+  label: Atom
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d2
+atom-alt:
+  changes:
+    - 5.2.0
+  label: Atom Alt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d3
 audible:
   changes:
     - 5.0.0
@@ -1218,6 +1262,7 @@ aviato:
 award:
   changes:
     - 5.1.0
+    - 5.2.0
   label: Award
   search:
     terms:
@@ -1241,6 +1286,17 @@ aws:
   styles:
     - brands
   unicode: f375
+backpack:
+  changes:
+    - 5.2.0
+  label: Backpack
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d4
 backspace:
   changes:
     - 5.1.0
@@ -1682,6 +1738,7 @@ bell:
   changes:
     - '2'
     - 5.0.0
+    - 5.2.0
   label: bell
   search:
     terms:
@@ -1693,10 +1750,33 @@ bell:
     - regular
     - light
   unicode: f0f3
+bell-school:
+  changes:
+    - 5.2.0
+  label: Bell School
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d5
+bell-school-slash:
+  changes:
+    - 5.2.0
+  label: Bell School-slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d6
 bell-slash:
   changes:
     - '4.2'
     - 5.0.0
+    - 5.2.0
   label: Bell Slash
   search:
     terms: []
@@ -1750,6 +1830,7 @@ binoculars:
   changes:
     - '4.2'
     - 5.0.0
+    - 5.2.0
   label: Binoculars
   search:
     terms: []
@@ -1931,6 +2012,28 @@ bomb:
     - regular
     - light
   unicode: f1e2
+bone:
+  changes:
+    - 5.2.0
+  label: Bone
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d7
+bone-break:
+  changes:
+    - 5.2.0
+  label: Bone Break
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d8
 bong:
   changes:
     - 5.1.0
@@ -1962,6 +2065,17 @@ book:
     - regular
     - light
   unicode: f02d
+book-alt:
+  changes:
+    - 5.2.0
+  label: Book Alt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5d9
 book-heart:
   changes:
     - 5.0.9
@@ -1977,6 +2091,7 @@ book-open:
   changes:
     - 5.0.13
     - 5.1.0
+    - 5.2.0
   label: Book Open
   search:
     terms:
@@ -1990,6 +2105,18 @@ book-open:
     - regular
     - light
   unicode: f518
+book-reader:
+  changes:
+    - 5.2.0
+  label: Book Reader
+  search:
+    terms:
+      - library
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5da
 bookmark:
   changes:
     - '1'
@@ -2003,6 +2130,17 @@ bookmark:
     - regular
     - light
   unicode: f02e
+books:
+  changes:
+    - 5.2.0
+  label: Books
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5db
 bowling-ball:
   changes:
     - 5.0.5
@@ -2190,6 +2328,17 @@ braille:
     - regular
     - light
   unicode: f2a1
+brain:
+  changes:
+    - 5.2.0
+  label: Brain
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5dc
 briefcase:
   changes:
     - '2'
@@ -2395,6 +2544,17 @@ bus-alt:
     - regular
     - light
   unicode: f55e
+bus-school:
+  changes:
+    - 5.2.0
+  label: Bus School
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5dd
 buysellads:
   changes:
     - '4.3'
@@ -2620,6 +2780,7 @@ car:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.2.0
   label: Car
   search:
     terms:
@@ -2631,6 +2792,105 @@ car:
     - regular
     - light
   unicode: f1b9
+car-alt:
+  changes:
+    - 5.2.0
+  label: Car Alt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5de
+car-battery:
+  changes:
+    - 5.2.0
+  label: Car Battery
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5df
+car-bump:
+  changes:
+    - 5.2.0
+  label: Car Bump
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e0
+car-crash:
+  changes:
+    - 5.2.0
+  label: Car Crash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e1
+car-garage:
+  changes:
+    - 5.2.0
+  label: Car Garage
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e2
+car-mechanic:
+  changes:
+    - 5.2.0
+  label: Car Mechanic
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e3
+car-side:
+  changes:
+    - 5.2.0
+  label: Car Side
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e4
+car-tilt:
+  changes:
+    - 5.2.0
+  label: Car Tilt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e5
+car-wash:
+  changes:
+    - 5.2.0
+  label: Car Wash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e6
 caret-circle-down:
   changes:
     - 5.0.0
@@ -2988,6 +3248,17 @@ chalkboard-teacher:
     - regular
     - light
   unicode: f51c
+charging-station:
+  changes:
+    - 5.2.0
+  label: Charging Station
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e7
 chart-area:
   changes:
     - '4.2'
@@ -3658,6 +3929,17 @@ clipboard-list:
     - regular
     - light
   unicode: f46d
+clipboard-prescription:
+  changes:
+    - 5.2.0
+  label: Clipboard Prescription
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e8
 clock:
   changes:
     - '1'
@@ -4311,6 +4593,7 @@ compass:
   changes:
     - '3.2'
     - 5.0.0
+    - 5.2.0
   label: Compass
   search:
     terms:
@@ -4323,6 +4606,17 @@ compass:
     - regular
     - light
   unicode: f14e
+compass-slash:
+  changes:
+    - 5.2.0
+  label: Compass Slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5e9
 compress:
   changes:
     - 5.0.0
@@ -5148,6 +5442,28 @@ digital-tachograph:
     - regular
     - light
   unicode: f566
+diploma:
+  changes:
+    - 5.2.0
+  label: Diploma
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ea
+directions:
+  changes:
+    - 5.2.0
+  label: Directions
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5eb
 discord:
   changes:
     - 5.0.0
@@ -5207,6 +5523,17 @@ dna:
     - regular
     - light
   unicode: f471
+do-not-enter:
+  changes:
+    - 5.2.0
+  label: Do Not-enter
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ec
 dochub:
   changes:
     - 5.0.0
@@ -5395,6 +5722,39 @@ drafting-compass:
     - regular
     - light
   unicode: f568
+draw-circle:
+  changes:
+    - 5.2.0
+  label: Draw Circle
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ed
+draw-polygon:
+  changes:
+    - 5.2.0
+  label: Draw Polygon
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ee
+draw-square:
+  changes:
+    - 5.2.0
+  label: Draw Square
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ef
 dribbble:
   changes:
     - 5.0.0
@@ -5495,6 +5855,17 @@ dyalog:
   styles:
     - brands
   unicode: f399
+ear:
+  changes:
+    - 5.2.0
+  label: Ear
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f0
 earlybirds:
   changes:
     - 5.0.0
@@ -5653,6 +6024,15 @@ ellipsis-v-alt:
     - regular
     - light
   unicode: f39c
+ello:
+  changes:
+    - 5.2.0
+  label: Ello
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f5f1
 ember:
   changes:
     - 5.0.0
@@ -5673,6 +6053,17 @@ empire:
   styles:
     - brands
   unicode: f1d1
+engine-warning:
+  changes:
+    - 5.2.0
+  label: Engine Warning
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f2
 envelope:
   changes:
     - '2'
@@ -6353,6 +6744,17 @@ file-audio:
     - regular
     - light
   unicode: f1c7
+file-certificate:
+  changes:
+    - 5.2.0
+  label: File Certificate
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f3
 file-check:
   changes:
     - 5.0.0
@@ -7266,6 +7668,17 @@ gas-pump:
     - regular
     - light
   unicode: f52f
+gas-pump-slash:
+  changes:
+    - 5.2.0
+  label: Gas Pump-slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f4
 gavel:
   changes:
     - '2'
@@ -7483,6 +7896,17 @@ glasses:
     - regular
     - light
   unicode: f530
+glasses-alt:
+  changes:
+    - 5.2.0
+  label: Glasses Alt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f5
 glide:
   changes:
     - '4.6'
@@ -7610,6 +8034,17 @@ globe-asia:
     - regular
     - light
   unicode: f57e
+globe-stand:
+  changes:
+    - 5.2.0
+  label: Globe Stand
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f6
 gofore:
   changes:
     - 5.0.0
@@ -7736,6 +8171,7 @@ graduation-cap:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.2.0
   label: Graduation Cap
   search:
     terms:
@@ -8126,6 +8562,15 @@ hacker-news-square:
   styles:
     - brands
   unicode: f3af
+hackerrank:
+  changes:
+    - 5.2.0
+  label: Hackerrank
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f5f7
 hand-heart:
   changes:
     - 5.0.9
@@ -8585,6 +9030,17 @@ heart-circle:
     - regular
     - light
   unicode: f4c7
+heart-rate:
+  changes:
+    - 5.2.0
+  label: Heart Rate
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f8
 heart-square:
   changes:
     - 5.0.9
@@ -9129,6 +9585,17 @@ info-square:
     - regular
     - light
   unicode: f30f
+inhaler:
+  changes:
+    - 5.2.0
+  label: Inhaler
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5f9
 instagram:
   changes:
     - '4.6'
@@ -9309,6 +9776,15 @@ jsfiddle:
   styles:
     - brands
   unicode: f1cc
+kaggle:
+  changes:
+    - 5.2.0
+  label: Kaggle
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f5fa
 key:
   changes:
     - '1'
@@ -9373,6 +9849,17 @@ kickstarter-k:
   styles:
     - brands
   unicode: f3bc
+kidneys:
+  changes:
+    - 5.2.0
+  label: Kidneys
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5fb
 kiss:
   changes:
     - 5.1.0
@@ -9476,6 +9963,7 @@ laptop:
   changes:
     - '3'
     - 5.0.0
+    - 5.2.0
   label: Laptop
   search:
     terms:
@@ -9495,6 +9983,17 @@ laptop:
     - regular
     - light
   unicode: f109
+laptop-code:
+  changes:
+    - 5.2.0
+  label: Laptop Code
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5fc
 laravel:
   changes:
     - 5.0.0
@@ -9583,6 +10082,40 @@ laugh-wink:
     - regular
     - light
   unicode: f59c
+layer-group:
+  changes:
+    - 5.2.0
+  label: Layer Group
+  search:
+    terms:
+      - layers
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5fd
+layer-minus:
+  changes:
+    - 5.2.0
+  label: Layer Minus
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5fe
+layer-plus:
+  changes:
+    - 5.2.0
+  label: Layer Plus
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f5ff
 leaf:
   changes:
     - '1'
@@ -9806,6 +10339,17 @@ linux:
   styles:
     - brands
   unicode: f17c
+lips:
+  changes:
+    - 5.2.0
+  label: Lips
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f600
 lira-sign:
   changes:
     - '4'
@@ -9895,6 +10439,17 @@ list-ul:
     - regular
     - light
   unicode: f0ca
+location:
+  changes:
+    - 5.2.0
+  label: Location
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f601
 location-arrow:
   changes:
     - '3.1'
@@ -9914,6 +10469,28 @@ location-arrow:
     - regular
     - light
   unicode: f124
+location-circle:
+  changes:
+    - 5.2.0
+  label: Location Circle
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f602
+location-slash:
+  changes:
+    - 5.2.0
+  label: Location Slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f603
 lock:
   changes:
     - '1'
@@ -10122,6 +10699,17 @@ luggage-cart:
     - regular
     - light
   unicode: f59d
+lungs:
+  changes:
+    - 5.2.0
+  label: Lungs
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f604
 lyft:
   changes:
     - 5.0.0
@@ -10318,10 +10906,121 @@ map-marker-alt:
     - regular
     - light
   unicode: f3c5
+map-marker-alt-slash:
+  changes:
+    - 5.2.0
+  label: Map Marker-alt-slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f605
+map-marker-check:
+  changes:
+    - 5.2.0
+  label: Map Marker-check
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f606
+map-marker-edit:
+  changes:
+    - 5.2.0
+  label: Map Marker-edit
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f607
+map-marker-exclamation:
+  changes:
+    - 5.2.0
+  label: Map Marker-exclamation
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f608
+map-marker-minus:
+  changes:
+    - 5.2.0
+  label: Map Marker-minus
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f609
+map-marker-plus:
+  changes:
+    - 5.2.0
+  label: Map Marker-plus
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f60a
+map-marker-question:
+  changes:
+    - 5.2.0
+  label: Map Marker-question
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f60b
+map-marker-slash:
+  changes:
+    - 5.2.0
+  label: Map Marker-slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f60c
+map-marker-smile:
+  changes:
+    - 5.2.0
+  label: Directions Alt
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f60d
+map-marker-times:
+  changes:
+    - 5.2.0
+  label: Map Marker-times
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f60e
 map-pin:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.2.0
   label: Map Pin
   search:
     terms:
@@ -10345,6 +11044,7 @@ map-signs:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.2.0
   label: Map Signs
   search:
     terms: []
@@ -10353,6 +11053,15 @@ map-signs:
     - regular
     - light
   unicode: f277
+markdown:
+  changes:
+    - 5.2.0
+  label: Markdown
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f60f
 marker:
   changes:
     - 5.1.0
@@ -10685,6 +11394,17 @@ microphone-slash:
     - regular
     - light
   unicode: f131
+microscope:
+  changes:
+    - 5.2.0
+  label: Microscope
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f610
 microsoft:
   changes:
     - 5.0.0
@@ -10996,6 +11716,17 @@ money-check-alt:
     - regular
     - light
   unicode: f53d
+monitor-heart-rate:
+  changes:
+    - 5.2.0
+  label: Monitor Heart Rate
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f611
 monument:
   changes:
     - 5.1.0
@@ -11076,6 +11807,7 @@ music:
   changes:
     - '1'
     - 5.0.0
+    - 5.2.0
   label: Music
   search:
     terms:
@@ -11095,6 +11827,15 @@ napster:
   styles:
     - brands
   unicode: f3d2
+neos:
+  changes:
+    - 5.2.0
+  label: Neos
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f612
 neuter:
   changes:
     - '4.3'
@@ -11264,6 +12005,28 @@ odnoklassniki-square:
   styles:
     - brands
   unicode: f264
+oil-can:
+  changes:
+    - 5.2.0
+  label: Oil Can
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f613
+oil-temp:
+  changes:
+    - 5.2.0
+  label: Oil Temp
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f614
 old-republic:
   changes:
     - 5.0.12
@@ -11505,6 +12268,39 @@ parking:
     - regular
     - light
   unicode: f540
+parking-circle:
+  changes:
+    - 5.2.0
+  label: Parking Circle
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f615
+parking-circle-slash:
+  changes:
+    - 5.2.0
+  label: Parking Circle-slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f616
+parking-slash:
+  changes:
+    - 5.2.0
+  label: Parking Slash
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f617
 passport:
   changes:
     - 5.1.0
@@ -11703,6 +12499,17 @@ pencil-alt:
     - regular
     - light
   unicode: f303
+pencil-paintbrush:
+  changes:
+    - 5.2.0
+  label: Pencil Paintbrush
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f618
 pencil-ruler:
   changes:
     - 5.1.0
@@ -12242,6 +13049,17 @@ poo:
     - regular
     - light
   unicode: f2fe
+poop:
+  changes:
+    - 5.2.0
+  label: Poop
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f619
 portrait:
   changes:
     - 5.0.0
@@ -12928,6 +13746,7 @@ road:
   changes:
     - '1'
     - 5.0.0
+    - 5.2.0
   label: road
   search:
     terms:
@@ -12990,6 +13809,28 @@ route:
     - regular
     - light
   unicode: f4d7
+route-highway:
+  changes:
+    - 5.2.0
+  label: Route Highway
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61a
+route-interstate:
+  changes:
+    - 5.2.0
+  label: Route Interstate
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61b
 rss:
   changes:
     - '2'
@@ -13064,6 +13905,17 @@ ruler-horizontal:
     - regular
     - light
   unicode: f547
+ruler-triangle:
+  changes:
+    - 5.2.0
+  label: Ruler Triangle
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61c
 ruler-vertical:
   changes:
     - 5.0.13
@@ -13153,6 +14005,28 @@ save:
     - regular
     - light
   unicode: f0c7
+scalpel:
+  changes:
+    - 5.2.0
+  label: Scalpel
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61d
+scalpel-path:
+  changes:
+    - 5.2.0
+  label: Scalpel Path
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61e
 scanner:
   changes:
     - 5.0.7
@@ -13358,6 +14232,20 @@ servicestack:
   styles:
     - brands
   unicode: f3ec
+shapes:
+  changes:
+    - 5.2.0
+  label: Shapes
+  search:
+    terms:
+      - circle
+      - square
+      - triangle
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f61f
 share:
   changes:
     - '1'
@@ -13800,6 +14688,17 @@ sith:
   styles:
     - brands
   unicode: f512
+skeleton:
+  changes:
+    - 5.2.0
+  label: Skeleton
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f620
 skull:
   changes:
     - 5.0.13
@@ -14445,6 +15344,17 @@ star-half-alt:
     - regular
     - light
   unicode: f5c0
+star-of-life:
+  changes:
+    - 5.2.0
+  label: Star Of-life
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f621
 staylinked:
   changes:
     - 5.0.0
@@ -14483,6 +15393,17 @@ steam-symbol:
   styles:
     - brands
   unicode: f3f6
+steering-wheel:
+  changes:
+    - 5.2.0
+  label: Wheel Steering
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f622
 step-backward:
   changes:
     - '1'
@@ -14549,6 +15470,17 @@ sticky-note:
     - regular
     - light
   unicode: f249
+stomach:
+  changes:
+    - 5.2.0
+  label: Stomach
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f623
 stop:
   changes:
     - '1'
@@ -14635,6 +15567,7 @@ street-view:
   changes:
     - '4.3'
     - 5.0.0
+    - 5.2.0
   label: Street View
   search:
     terms:
@@ -15043,6 +15976,7 @@ tachometer:
   changes:
     - '2'
     - 5.0.0
+    - 5.2.0
   label: Tachometer
   search:
     terms:
@@ -15057,6 +15991,7 @@ tachometer:
 tachometer-alt:
   changes:
     - 5.0.0
+    - 5.2.0
   label: Alternate Tachometer
   search:
     terms:
@@ -15067,6 +16002,116 @@ tachometer-alt:
     - regular
     - light
   unicode: f3fd
+tachometer-alt-average:
+  changes:
+    - 5.2.0
+  label: Tachometer Alt-average
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f624
+tachometer-alt-fast:
+  changes:
+    - 5.2.0
+  label: Tachometer Alt-fast
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f625
+tachometer-alt-fastest:
+  changes:
+    - 5.2.0
+  label: Tachometer Alt-fastest
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f626
+tachometer-alt-slow:
+  changes:
+    - 5.2.0
+  label: Tachometer Alt-slow
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f627
+tachometer-alt-slowest:
+  changes:
+    - 5.2.0
+  label: Tachometer Alt-slowest
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f628
+tachometer-average:
+  changes:
+    - 5.2.0
+  label: Tachometer Average
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f629
+tachometer-fast:
+  changes:
+    - 5.2.0
+  label: Tachometer Fast
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62a
+tachometer-fastest:
+  changes:
+    - 5.2.0
+  label: Tachometer Fastest
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62b
+tachometer-slow:
+  changes:
+    - 5.2.0
+  label: Tachometer Slow
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62c
+tachometer-slowest:
+  changes:
+    - 5.2.0
+  label: Tachometer Slowest
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62d
 tag:
   changes:
     - '1'
@@ -15153,6 +16198,28 @@ teamspeak:
   styles:
     - brands
   unicode: f4f9
+teeth:
+  changes:
+    - 5.2.0
+  label: Teeth
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62e
+teeth-open:
+  changes:
+    - 5.2.0
+  label: Teeth Open
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f62f
 telegram:
   changes:
     - '4.7'
@@ -15284,6 +16351,17 @@ th-list:
     - regular
     - light
   unicode: f00b
+theater-masks:
+  changes:
+    - 5.2.0
+  label: Theater Masks
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f630
 themeco:
   changes:
     - 5.1.0
@@ -15602,6 +16680,51 @@ tint-slash:
     - regular
     - light
   unicode: f5c7
+tire:
+  changes:
+    - 5.2.0
+  label: Tire
+  search:
+    terms:
+      - wheel
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f631
+tire-flat:
+  changes:
+    - 5.2.0
+  label: Tire Flat
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f632
+tire-pressure-warning:
+  changes:
+    - 5.2.0
+  label: Tire Pressure-warning
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f633
+tire-rugged:
+  changes:
+    - 5.2.0
+  label: Tire Rugged
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f634
 tired:
   changes:
     - 5.1.0
@@ -15675,6 +16798,17 @@ tooth:
     - regular
     - light
   unicode: f5c9
+toothbrush:
+  changes:
+    - 5.2.0
+  label: Toothbrush
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f635
 trade-federation:
   changes:
     - 5.0.12
@@ -15696,6 +16830,61 @@ trademark:
     - regular
     - light
   unicode: f25c
+traffic-cone:
+  changes:
+    - 5.2.0
+  label: Traffic Cone
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f636
+traffic-light:
+  changes:
+    - 5.2.0
+  label: Traffic Light
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f637
+traffic-light-go:
+  changes:
+    - 5.2.0
+  label: Traffic Light-go
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f638
+traffic-light-slow:
+  changes:
+    - 5.2.0
+  label: Traffic Light-slow
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f639
+traffic-light-stop:
+  changes:
+    - 5.2.0
+  label: Traffic Light-stop
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f63a
 train:
   changes:
     - '4.3'
@@ -15905,6 +17094,17 @@ truck-loading:
     - regular
     - light
   unicode: f4de
+truck-monster:
+  changes:
+    - 5.2.0
+  label: Truck Monster
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f63b
 truck-moving:
   changes:
     - 5.0.9
@@ -15916,6 +17116,17 @@ truck-moving:
     - regular
     - light
   unicode: f4df
+truck-pickup:
+  changes:
+    - 5.2.0
+  label: Truck Side
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f63c
 truck-ramp:
   changes:
     - 5.0.9
@@ -16618,6 +17829,17 @@ users:
     - regular
     - light
   unicode: f0c0
+users-class:
+  changes:
+    - 5.2.0
+  label: Users Class
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f63d
 users-cog:
   changes:
     - 5.0.11
@@ -17067,6 +18289,17 @@ watch:
     - regular
     - light
   unicode: f2e1
+watch-fitness:
+  changes:
+    - 5.2.0
+  label: Watch Fitness
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f63e
 weebly:
   changes:
     - 5.1.0
@@ -17543,3 +18776,12 @@ youtube-square:
   styles:
     - brands
   unicode: f431
+zhihu:
+  changes:
+    - 5.2.0
+  label: Zhihu
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f63f
