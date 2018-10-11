@@ -48,10 +48,10 @@ acorn:
   label: Acorn
   search:
     terms:
-      - autumn
       - fall
       - nature
       - nut
+      - seasonal
       - tree
   styles:
     - solid
@@ -602,12 +602,12 @@ apple-alt:
   label: Fruit Apple
   search:
     terms:
-      - autumn
       - fall
       - food
       - fruit
       - fuji
       - macintosh
+      - seasonal
   styles:
     - solid
     - regular
@@ -619,7 +619,6 @@ apple-crate:
   label: Apple Crate
   search:
     terms:
-      - autumn
       - bushel
       - container
       - fall
@@ -628,6 +627,7 @@ apple-crate:
       - fuji
       - macintosh
       - peck
+      - seasonal
   styles:
     - solid
     - regular
@@ -1432,11 +1432,11 @@ axe:
   label: Axe
   search:
     terms:
-      - autumn
       - blade
       - cut
       - fall
       - outdoors
+      - seasonal
       - sharp
       - swing
       - tool
@@ -1800,6 +1800,7 @@ bat:
       - flying
       - gotham
       - halloween
+      - holiday
       - mammal
       - wings
   styles:
@@ -2357,6 +2358,7 @@ book-dead:
       - evil
       - fantasy
       - halloween
+      - holiday
       - read
       - skull
       - spell
@@ -2421,6 +2423,7 @@ book-spells:
       - evil
       - fantasy
       - halloween
+      - holiday
       - mage
       - magic
       - read
@@ -2736,6 +2739,7 @@ broom:
       - firebolt
       - fly
       - halloween
+      - holiday
       - nimbus 2000
       - quidditch
       - sweep
@@ -3174,7 +3178,6 @@ campfire:
   search:
     terms:
       - Dungeons & Dragons
-      - autumn
       - caliente
       - campaign
       - camping
@@ -3188,6 +3191,7 @@ campfire:
       - hot
       - meeting
       - outdoors
+      - seasonal
       - tent
       - wilderness
   styles:
@@ -3201,10 +3205,10 @@ campground:
   label: Campground
   search:
     terms:
-      - autumn
       - camping
       - fall
       - outdoors
+      - seasonal
       - tent
   styles:
     - solid
@@ -3220,6 +3224,7 @@ candle-holder:
       - fire
       - flame
       - halloween
+      - holiday
       - hot
       - light
       - lit
@@ -3237,6 +3242,7 @@ candy-corn:
     terms:
       - food
       - halloween
+      - holiday
       - sugar
       - triangles
   styles:
@@ -3608,6 +3614,7 @@ cat:
     terms:
       - feline
       - halloween
+      - holiday
       - kitten
       - kitty
       - meow
@@ -3627,6 +3634,7 @@ cauldron:
       - bubble
       - cooking
       - halloween
+      - holiday
       - magic
       - pot
       - sorcery
@@ -4501,6 +4509,7 @@ claw-marks:
       - attack
       - damage
       - halloween
+      - holiday
       - rip
       - scratch
       - tear
@@ -4667,6 +4676,7 @@ cloud-moon:
     terms:
       - evening
       - halloween
+      - holiday
       - night
       - sky
   styles:
@@ -4680,11 +4690,11 @@ cloud-sun:
   label: Cloud with Sun
   search:
     terms:
-      - autumn
       - day
       - daytime
       - fall
       - outdoors
+      - seasonal
   styles:
     - solid
     - regular
@@ -4871,7 +4881,6 @@ coffee:
   label: Coffee
   search:
     terms:
-      - autumn
       - beverage
       - breakfast
       - cafe
@@ -4879,6 +4888,7 @@ coffee:
       - fall
       - morning
       - mug
+      - seasonal
       - tea
   styles:
     - solid
@@ -4913,6 +4923,7 @@ coffin:
   search:
     terms:
       - halloween
+      - holiday
   styles:
     - solid
     - regular
@@ -5570,13 +5581,13 @@ corn:
   label: Corn
   search:
     terms:
-      - autumn
       - cob
       - ear
       - fall
       - food
       - kernel
       - maize
+      - seasonal
   styles:
     - solid
     - regular
@@ -5895,6 +5906,7 @@ crow:
       - bullfrog
       - fauna
       - halloween
+      - holiday
       - toad
   styles:
     - solid
@@ -6888,13 +6900,13 @@ drumstick:
   label: Drumstick
   search:
     terms:
-      - autumn
       - bone
       - chicken
       - fall
       - food
       - leg
       - poultry
+      - seasonal
       - turkey
   styles:
     - solid
@@ -8635,6 +8647,7 @@ flask-poison:
       - drink
       - halloween
       - health
+      - holiday
       - power
   styles:
     - solid
@@ -8663,6 +8676,7 @@ flask-potion:
       - halloween
       - heal
       - health
+      - holiday
       - magic
       - mana
       - science
@@ -8878,9 +8892,9 @@ football-ball:
   label: Football Ball
   search:
     terms:
-      - autumn
       - fall
       - pigskin
+      - seasonal
   styles:
     - solid
     - regular
@@ -9231,6 +9245,7 @@ ghost:
       - clyde
       - floating
       - halloween
+      - holiday
       - inky
       - pinky
       - spirit
@@ -10530,6 +10545,7 @@ hat-witch:
       - cloth
       - clothing
       - halloween
+      - holiday
       - mage
       - magic
       - sorceror
@@ -10552,6 +10568,7 @@ hat-wizard:
       - dnd
       - fantasy
       - halloween
+      - holiday
       - mage
       - magic
       - pointy
@@ -10828,11 +10845,11 @@ hiking:
   search:
     terms:
       - activity
-      - autumn
       - backpack
       - fall
       - fitness
       - outdoors
+      - seasonal
       - walking
   styles:
     - solid
@@ -10892,6 +10909,7 @@ hockey-mask:
       - clothing
       - friday
       - halloween
+      - holiday
       - jason
       - protection
       - thirteenth
@@ -11516,6 +11534,7 @@ jack-o-lantern:
       - carve
       - face
       - halloween
+      - holiday
       - lantern
       - pumpkin
       - smile
@@ -11692,6 +11711,7 @@ key-skeleton:
   search:
     terms:
       - halloween
+      - holiday
       - password
       - unlock
   styles:
@@ -11848,12 +11868,12 @@ kite:
   search:
     terms:
       - air
-      - autumn
       - benjamin
       - fall
       - flying
       - franklin
       - outdoors
+      - seasonal
       - sky
       - wind
   styles:
@@ -11883,6 +11903,7 @@ knife-kitchen:
       - chef
       - cut
       - halloween
+      - holiday
       - tool
   styles:
     - solid
@@ -12154,12 +12175,12 @@ leaf-maple:
   label: Maple Leaf
   search:
     terms:
-      - autumn
       - eco
       - fall
       - flora
       - nature
       - plant
+      - seasonal
   styles:
     - solid
     - regular
@@ -12171,12 +12192,12 @@ leaf-oak:
   label: Oak Leaf
   search:
     terms:
-      - autumn
       - eco
       - fall
       - flora
       - nature
       - plant
+      - seasonal
   styles:
     - solid
     - regular
@@ -12395,6 +12416,7 @@ linkedin-in:
   changes:
     - '2'
     - 5.0.0
+    - 5.4.1
   label: LinkedIn In
   search:
     terms:
@@ -13295,6 +13317,7 @@ mask:
       - costume
       - disguise
       - halloween
+      - holiday
       - secret
       - super hero
   styles:
@@ -16757,6 +16780,7 @@ scarecrow:
   search:
     terms:
       - halloween
+      - holiday
   styles:
     - solid
     - regular
@@ -17743,6 +17767,7 @@ skull-crossbones:
       - dnd
       - fantasy
       - halloween
+      - holiday
       - jolly-roger
       - pirate
       - poison
@@ -18246,6 +18271,7 @@ spider:
       - crawl
       - eight
       - halloween
+      - holiday
   styles:
     - solid
     - regular
@@ -18268,6 +18294,7 @@ spider-black-widow:
       - eight
       - error
       - halloween
+      - holiday
   styles:
     - solid
     - regular
@@ -18280,6 +18307,7 @@ spider-web:
   search:
     terms:
       - halloween
+      - holiday
   styles:
     - solid
     - regular
@@ -20076,6 +20104,7 @@ toilet-paper:
     terms:
       - bathroom
       - halloween
+      - holiday
       - lavatory
       - prank
       - restroom
@@ -20093,6 +20122,7 @@ toilet-paper-alt:
     terms:
       - bathroom
       - halloween
+      - holiday
       - lavatory
       - prank
       - restroom
@@ -20115,6 +20145,7 @@ tombstone:
       - delete
       - grave
       - halloween
+      - holiday
       - remove
   styles:
     - solid
@@ -20134,6 +20165,7 @@ tombstone-alt:
       - delete
       - grave
       - halloween
+      - holiday
       - remove
   styles:
     - solid
@@ -20399,13 +20431,13 @@ tree:
   label: Tree
   search:
     terms:
-      - autumn
       - bark
       - fall
       - flora
       - forest
       - nature
       - plant
+      - seasonal
   styles:
     - solid
     - regular
@@ -20417,13 +20449,13 @@ tree-alt:
   label: Alternate Tree
   search:
     terms:
-      - autumn
       - bark
       - fall
       - flora
       - forest
       - nature
       - plant
+      - seasonal
   styles:
     - solid
     - regular
@@ -20435,13 +20467,13 @@ trees:
   label: Trees
   search:
     terms:
-      - autumn
       - bark
       - fall
       - flora
       - forest
       - nature
       - plant
+      - seasonal
   styles:
     - solid
     - regular
@@ -20655,12 +20687,12 @@ turkey:
   label: Turkey
   search:
     terms:
-      - autumn
       - bird
       - fall
       - food
       - meal
       - poultry
+      - seasonal
       - thanksgiving
   styles:
     - solid
@@ -21925,6 +21957,7 @@ wallet:
 wand:
   changes:
     - 5.4.0
+    - 5.4.1
   label: Wand
   search:
     terms:
@@ -21933,6 +21966,7 @@ wand:
       - dnd
       - fantasy
       - halloween
+      - holiday
       - weapon
   styles:
     - solid
@@ -21949,6 +21983,7 @@ wand-magic:
       - automatic
       - fantasy
       - halloween
+      - holiday
       - magic
       - weapon
       - witch
@@ -22100,11 +22135,11 @@ wheat:
   search:
     terms:
       - argriculture
-      - autumn
       - fall
       - farming
       - food
       - grain
+      - seasonal
   styles:
     - solid
     - regular
@@ -22208,10 +22243,10 @@ wind:
   search:
     terms:
       - air
-      - autumn
       - blow
       - breeze
       - fall
+      - seasonal
   styles:
     - solid
     - regular
