@@ -16251,15 +16251,6 @@ registered:
     - regular
     - light
   unicode: f25d
-rendact:
-  changes:
-    - 5.0.0
-  label: Rendact
-  search:
-    terms: []
-  styles:
-    - brands
-  unicode: f3e4
 renren:
   changes:
     - '3.2'
@@ -16482,6 +16473,7 @@ rocket:
 rocketchat:
   changes:
     - 5.0.0
+    - 5.4.2
   label: Rocket.Chat
   search:
     terms: []
@@ -19779,6 +19771,15 @@ theta:
     - regular
     - light
   unicode: f69e
+think-peaks:
+  changes:
+    - 5.4.2
+  label: Think Peaks
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f731
 thumbs-down:
   changes:
     - '3.2'
@@ -22476,6 +22477,16 @@ wpforms:
   styles:
     - brands
   unicode: f298
+wpressr:
+  changes:
+    - 5.4.2
+  label: wpressr
+  search:
+    terms:
+      - rendact
+  styles:
+    - brands
+  unicode: f3e4
 wrench:
   changes:
     - '2'
