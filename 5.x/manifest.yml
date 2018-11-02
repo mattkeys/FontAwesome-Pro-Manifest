@@ -1629,6 +1629,37 @@ balance-scale-right:
     - regular
     - light
   unicode: f516
+ballot:
+  changes:
+    - 5.5.0
+  label: Ballot
+  search:
+    terms:
+      - election
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f732
+ballot-check:
+  changes:
+    - 5.5.0
+  label: Ballot Check
+  search:
+    terms:
+      - completed
+      - done
+      - election
+      - finished
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f733
 ban:
   changes:
     - '1'
@@ -2254,6 +2285,7 @@ bolt:
   changes:
     - '2'
     - 5.0.0
+    - 5.5.0
   label: Lightning Bolt
   search:
     terms:
@@ -2460,6 +2492,22 @@ books:
     - regular
     - light
   unicode: f5db
+booth-curtain:
+  changes:
+    - 5.5.0
+  label: Booth with Curtain
+  search:
+    terms:
+      - changing room
+      - election
+      - vote
+      - voting
+      - voting booth
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f734
 bow-arrow:
   changes:
     - 5.4.0
@@ -2525,6 +2573,21 @@ box-alt:
     - regular
     - light
   unicode: f49a
+box-ballot:
+  changes:
+    - 5.5.0
+  label: Box Ballot
+  search:
+    terms:
+      - election
+      - politics
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f735
 box-check:
   changes:
     - 5.0.7
@@ -3111,6 +3174,17 @@ calendar-plus:
     - regular
     - light
   unicode: f271
+calendar-star:
+  changes:
+    - 5.5.0
+  label: Calendar Star
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f736
 calendar-times:
   changes:
     - '4.4'
@@ -4534,7 +4608,7 @@ clipboard:
 clipboard-check:
   changes:
     - 5.0.7
-  label: Clipboard Check
+  label: Clipboard with Check
   search:
     terms:
       - accept
@@ -4571,6 +4645,29 @@ clipboard-list:
     - regular
     - light
   unicode: f46d
+clipboard-list-check:
+  changes:
+    - 5.5.0
+  label: Clipboard List with Check
+  search:
+    terms:
+      - checklist
+      - completed
+      - done
+      - election
+      - finished
+      - intinerary
+      - ol
+      - schedule
+      - todo
+      - ul
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f737
 clipboard-prescription:
   changes:
     - 5.2.0
@@ -4662,21 +4759,75 @@ cloud-download-alt:
   label: Alternate Cloud Download
   search:
     terms:
-      - cloud-download
+      - import
   styles:
     - solid
     - regular
     - light
   unicode: f381
+cloud-drizzle:
+  changes:
+    - 5.5.0
+  label: Cloud with Drizzle
+  search:
+    terms:
+      - precipitation
+      - rain
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f738
+cloud-hail:
+  changes:
+    - 5.5.0
+  label: Cloud with Hail
+  search:
+    terms:
+      - golf balls
+      - precipitation
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f739
+cloud-hail-mixed:
+  changes:
+    - 5.5.0
+  label: Cloud with Mixed Hail
+  search:
+    terms:
+      - precipitation
+      - rain
+      - storm
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73a
+cloud-meatball:
+  changes:
+    - 5.5.0
+  label: Cloud with (a chance of) Meatball
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73b
 cloud-moon:
   changes:
     - 5.4.0
+    - 5.5.0
   label: Cloud with Moon
   search:
     terms:
+      - crescent
       - evening
       - halloween
       - holiday
+      - lunar
       - night
       - sky
   styles:
@@ -4684,9 +4835,98 @@ cloud-moon:
     - regular
     - light
   unicode: f6c3
+cloud-moon-rain:
+  changes:
+    - 5.5.0
+  label: Cloud with Moon and Rain
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73c
+cloud-rain:
+  changes:
+    - 5.5.0
+  label: Cloud with Rain
+  search:
+    terms:
+      - precipitation
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73d
+cloud-rainbow:
+  changes:
+    - 5.5.0
+  label: Cloud with Rainbow
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73e
+cloud-showers:
+  changes:
+    - 5.5.0
+  label: Cloud with Showers
+  search:
+    terms:
+      - precipitation
+      - rain
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f73f
+cloud-showers-heavy:
+  changes:
+    - 5.5.0
+  label: Cloud with Heavy Showers
+  search:
+    terms:
+      - precipitation
+      - rain
+      - storm
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f740
+cloud-sleet:
+  changes:
+    - 5.5.0
+  label: Cloud with Sleet
+  search:
+    terms:
+      - precipitation
+      - winter
+      - wintry mix
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f741
+cloud-snow:
+  changes:
+    - 5.5.0
+  label: Cloud with Snow
+  search:
+    terms:
+      - precipitation
+      - winter
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f742
 cloud-sun:
   changes:
     - 5.4.0
+    - 5.5.0
   label: Cloud with Sun
   search:
     terms:
@@ -4700,6 +4940,17 @@ cloud-sun:
     - regular
     - light
   unicode: f6c4
+cloud-sun-rain:
+  changes:
+    - 5.5.0
+  label: Cloud with Sun and Rain
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f743
 cloud-upload:
   changes:
     - '3'
@@ -4727,6 +4978,39 @@ cloud-upload-alt:
     - regular
     - light
   unicode: f382
+clouds:
+  changes:
+    - 5.5.0
+  label: Clouds
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f744
+clouds-moon:
+  changes:
+    - 5.5.0
+  label: Clouds with Moon
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f745
+clouds-sun:
+  changes:
+    - 5.5.0
+  label: Clouds with Sun
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f746
 cloudscale:
   changes:
     - 5.0.0
@@ -6093,6 +6377,26 @@ delicious:
   styles:
     - brands
   unicode: f1a5
+democrat:
+  changes:
+    - 5.5.0
+  label: Democrat
+  search:
+    terms:
+      - american
+      - democratic party
+      - donkey
+      - election
+      - left
+      - left-wing
+      - liberal
+      - politics
+      - usa
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f747
 deploydog:
   changes:
     - 5.0.0
@@ -6172,6 +6476,17 @@ deviantart:
   styles:
     - brands
   unicode: f1bd
+dewpoint:
+  changes:
+    - 5.5.0
+  label: Dewpoint
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f748
 dharmachakra:
   changes:
     - 5.3.0
@@ -7022,6 +7337,28 @@ ebay:
   styles:
     - brands
   unicode: f4f4
+eclipse:
+  changes:
+    - 5.5.0
+  label: Eclipse
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f749
+eclipse-alt:
+  changes:
+    - 5.5.0
+  label: Alternate Eclipse
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74a
 edge:
   changes:
     - '4.5'
@@ -8484,6 +8821,17 @@ fire-extinguisher:
     - regular
     - light
   unicode: f134
+fire-smoke:
+  changes:
+    - 5.5.0
+  label: Fire and Smoke
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74b
 firefox:
   changes:
     - '4.4'
@@ -8577,15 +8925,36 @@ flag:
   label: flag
   search:
     terms:
+      - country
       - notice
       - notification
       - notify
+      - pole
       - report
+      - symbol
   styles:
     - solid
     - regular
     - light
   unicode: f024
+flag-alt:
+  changes:
+    - 5.5.0
+  label: Alternate Flag
+  search:
+    terms:
+      - country
+      - notice
+      - notification
+      - notify
+      - pole
+      - report
+      - symbol
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74c
 flag-checkered:
   changes:
     - '3.1'
@@ -8596,12 +8965,32 @@ flag-checkered:
       - notice
       - notification
       - notify
+      - pole
+      - racing
       - report
+      - symbol
   styles:
     - solid
     - regular
     - light
   unicode: f11e
+flag-usa:
+  changes:
+    - 5.5.0
+  label: United States of America Flag
+  search:
+    terms:
+      - betsy ross
+      - country
+      - old glory
+      - stars
+      - stripes
+      - symbol
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74d
 flame:
   changes:
     - 5.4.0
@@ -8728,6 +9117,20 @@ fly:
   styles:
     - brands
   unicode: f417
+fog:
+  changes:
+    - 5.5.0
+  label: Fog
+  search:
+    terms:
+      - opaque
+      - san francisco
+      - visibility
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74e
 folder:
   changes:
     - '1'
@@ -9116,7 +9519,9 @@ galactic-republic:
     - 5.0.12
   label: Galactic Republic
   search:
-    terms: []
+    terms:
+      - politics
+      - star wars
   styles:
     - brands
   unicode: f50c
@@ -9125,7 +9530,8 @@ galactic-senate:
     - 5.0.12
   label: Galactic Senate
   search:
-    terms: []
+    terms:
+      - star wars
   styles:
     - brands
   unicode: f50d
@@ -11141,7 +11547,7 @@ hourglass-start:
 house-damage:
   changes:
     - 5.4.0
-  label: House Damage
+  label: Damaged House
   search:
     terms:
       - devastation
@@ -11151,6 +11557,17 @@ house-damage:
     - regular
     - light
   unicode: f6f1
+house-flood:
+  changes:
+    - 5.5.0
+  label: Flooded House
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f74f
 houzz:
   changes:
     - '4.4'
@@ -11193,6 +11610,33 @@ hubspot:
   styles:
     - brands
   unicode: f3b2
+humidity:
+  changes:
+    - 5.5.0
+  label: Humidity
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f750
+hurricane:
+  changes:
+    - 5.5.0
+  label: Hurricane
+  search:
+    terms:
+      - coriolis effect
+      - eye
+      - storm
+      - tropical cyclone
+      - typhoon
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f751
 i-cursor:
   changes:
     - '4.4'
@@ -11951,11 +12395,27 @@ landmark:
       - building
       - historic
       - memoroable
+      - politics
   styles:
     - solid
     - regular
     - light
   unicode: f66f
+landmark-alt:
+  changes:
+    - 5.5.0
+  label: Alternative Landmark
+  search:
+    terms:
+      - building
+      - historic
+      - memoroable
+      - politics
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f752
 language:
   changes:
     - '4.1'
@@ -13535,6 +13995,17 @@ mercury:
     - regular
     - light
   unicode: f223
+meteor:
+  changes:
+    - 5.5.0
+  label: Meteor
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f753
 microchip:
   changes:
     - '4.7'
@@ -14002,13 +14473,39 @@ moon:
   search:
     terms:
       - contrast
+      - crescent
       - darker
+      - lunar
       - night
   styles:
     - solid
     - regular
     - light
   unicode: f186
+moon-cloud:
+  changes:
+    - 5.5.0
+  label: Moon with Cloud
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f754
+moon-stars:
+  changes:
+    - 5.5.0
+  label: Moon with Stars
+  search:
+    terms:
+      - crescent
+      - lunar
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f755
 mortar-pestle:
   changes:
     - 5.1.0
@@ -14345,7 +14842,9 @@ old-republic:
     - 5.0.12
   label: Old Republic
   search:
-    terms: []
+    terms:
+      - politics
+      - star wars
   styles:
     - brands
   unicode: f510
@@ -15017,13 +15516,35 @@ periscope:
   styles:
     - brands
   unicode: f3da
+person-booth:
+  changes:
+    - 5.5.0
+  label: Person Entering Booth
+  search:
+    terms:
+      - changing
+      - changing room
+      - election
+      - human
+      - person
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f756
 person-carry:
   changes:
     - 5.0.9
   label: Person Carry
   search:
     terms:
+      - human
+      - lift
       - mover
+      - person
+      - transport
   styles:
     - solid
     - regular
@@ -15035,7 +15556,11 @@ person-dolly:
   label: Person and Dolly
   search:
     terms:
-      - mover dolly
+      - human
+      - lift
+      - mover
+      - person
+      - transport
   styles:
     - solid
     - regular
@@ -15047,12 +15572,34 @@ person-dolly-empty:
   label: Person and Empty Dolly
   search:
     terms:
+      - human
+      - lift
       - mover
+      - person
+      - transport
   styles:
     - solid
     - regular
     - light
   unicode: f4d1
+person-sign:
+  changes:
+    - 5.5.0
+  label: Person Holding Sign
+  search:
+    terms:
+      - advocate
+      - human
+      - information
+      - person
+      - protest
+      - protester
+      - volunteer
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f757
 phabricator:
   changes:
     - 5.0.0
@@ -15555,18 +16102,41 @@ podium:
       - seminar
       - speak
       - speaker
+      - speech
       - talk
   styles:
     - solid
     - regular
     - light
   unicode: f680
+podium-star:
+  changes:
+    - 5.5.0
+  label: Podium with Star
+  search:
+    terms:
+      - debate
+      - election
+      - keynote
+      - politics
+      - speak
+      - speaker
+      - speech
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f758
 poll:
   changes:
     - 5.3.0
   label: Poll
   search:
-    terms: []
+    terms:
+      - results
+      - survey
+      - vote
+      - voting
   styles:
     - solid
     - regular
@@ -15577,12 +16147,35 @@ poll-h:
     - 5.3.0
   label: Poll H
   search:
-    terms: []
+    terms:
+      - results
+      - survey
+      - vote
+      - voting
   styles:
     - solid
     - regular
     - light
   unicode: f682
+poll-people:
+  changes:
+    - 5.5.0
+  label: Poll People
+  search:
+    terms:
+      - candidates
+      - election
+      - people
+      - person
+      - results
+      - survey
+      - vote
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f759
 poo:
   changes:
     - 5.0.0
@@ -15595,6 +16188,20 @@ poo:
     - regular
     - light
   unicode: f2fe
+poo-storm:
+  changes:
+    - 5.5.0
+  label: Poo Storm
+  search:
+    terms:
+      - mess
+      - poop
+      - shit
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f75a
 poop:
   changes:
     - 5.2.0
@@ -16032,6 +16639,29 @@ racquet:
     - regular
     - light
   unicode: f45a
+rainbow:
+  changes:
+    - 5.5.0
+  label: Rainbow
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f75b
+raindrops:
+  changes:
+    - 5.5.0
+  label: Raindrops
+  search:
+    terms:
+      - precipitation
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f75c
 ram:
   changes:
     - 5.4.0
@@ -16090,6 +16720,15 @@ react:
   styles:
     - brands
   unicode: f41b
+reacteurope:
+  changes:
+    - 5.5.0
+  label: ReactEurope
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f75d
 readme:
   changes:
     - 5.0.9
@@ -16338,6 +16977,26 @@ replyd:
   styles:
     - brands
   unicode: f3e6
+republican:
+  changes:
+    - 5.5.0
+  label: Republican
+  search:
+    terms:
+      - american
+      - conservative
+      - election
+      - elephant
+      - politics
+      - republican party
+      - right
+      - right-wing
+      - usa
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f75e
 researchgate:
   changes:
     - 5.0.11
@@ -17950,6 +18609,29 @@ smile-wink:
     - regular
     - light
   unicode: f4da
+smog:
+  changes:
+    - 5.5.0
+  label: Smog
+  search:
+    terms:
+      - dragon
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f75f
+smoke:
+  changes:
+    - 5.5.0
+  label: Smoke
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f760
 smoking:
   changes:
     - 5.0.7
@@ -18022,13 +18704,32 @@ snapchat-square:
   styles:
     - brands
   unicode: f2ad
+snow-blowing:
+  changes:
+    - 5.5.0
+  label: Snow Blowing
+  search:
+    terms:
+      - blizzard
+      - precipitation
+      - storm
+      - winter
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f761
 snowflake:
   changes:
     - '4.7'
     - 5.0.0
+    - 5.5.0
   label: Snowflake
   search:
-    terms: []
+    terms:
+      - precipitation
+      - seasonal
+      - winter
   styles:
     - solid
     - regular
@@ -18586,6 +19287,17 @@ star-of-life:
     - regular
     - light
   unicode: f621
+stars:
+  changes:
+    - 5.5.0
+  label: Stars
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f762
 staylinked:
   changes:
     - 5.0.0
@@ -18946,6 +19658,7 @@ sun:
   changes:
     - '3.2'
     - 5.0.0
+    - 5.5.0
   label: Sun
   search:
     terms:
@@ -18953,12 +19666,85 @@ sun:
       - contrast
       - day
       - lighter
+      - sol
+      - solar
+      - star
       - weather
   styles:
     - solid
     - regular
     - light
   unicode: f185
+sun-cloud:
+  changes:
+    - 5.5.0
+  label: Sun with Cloud
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f763
+sun-dust:
+  changes:
+    - 5.5.0
+  label: Sun Dust
+  search:
+    terms:
+      - dry
+      - heat
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f764
+sun-haze:
+  changes:
+    - 5.5.0
+  label: Sun Haze
+  search:
+    terms:
+      - heat
+      - sweltering
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f765
+sunrise:
+  changes:
+    - 5.5.0
+  label: Sunrise
+  search:
+    terms:
+      - dawn
+      - day
+      - daybreak
+      - daylight
+      - daytime
+      - morning
+      - sun up
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f766
+sunset:
+  changes:
+    - 5.5.0
+  label: Sunset
+  search:
+    terms:
+      - dusk
+      - night
+      - nighttime
+      - sun down
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f767
 superpowers:
   changes:
     - '4.7'
@@ -19531,6 +20317,64 @@ telegram-plane:
   styles:
     - brands
   unicode: f3fe
+temperature-frigid:
+  changes:
+    - 5.5.0
+  label: Temperature Frigid
+  search:
+    terms:
+      - cold
+      - mercury
+      - thermometer
+      - winter
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f768
+temperature-high:
+  changes:
+    - 5.5.0
+  label: High Temperature
+  search:
+    terms:
+      - mercury
+      - thermometer
+      - warm
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f769
+temperature-hot:
+  changes:
+    - 5.5.0
+  label: Temperature Hot
+  search:
+    terms:
+      - heat
+      - mercury
+      - summer
+      - thermometer
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76a
+temperature-low:
+  changes:
+    - 5.5.0
+  label: Low Temperature
+  search:
+    terms:
+      - cool
+      - mercury
+      - thermometer
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76b
 tencent-weibo:
   changes:
     - '4.1'
@@ -19688,7 +20532,8 @@ thermometer:
   label: Thermometer
   search:
     terms:
-      - fever
+      - mercury
+      - status
       - temperature
   styles:
     - solid
@@ -19702,7 +20547,9 @@ thermometer-empty:
   label: Thermometer Empty
   search:
     terms:
+      - mercury
       - status
+      - temperature
   styles:
     - solid
     - regular
@@ -19715,7 +20562,10 @@ thermometer-full:
   label: Thermometer Full
   search:
     terms:
+      - fever
+      - mercury
       - status
+      - temperature
   styles:
     - solid
     - regular
@@ -19728,7 +20578,9 @@ thermometer-half:
   label: Thermometer 1/2 Full
   search:
     terms:
+      - mercury
       - status
+      - temperature
   styles:
     - solid
     - regular
@@ -19741,7 +20593,9 @@ thermometer-quarter:
   label: Thermometer 1/4 Full
   search:
     terms:
+      - mercury
       - status
+      - temperature
   styles:
     - solid
     - regular
@@ -19754,7 +20608,9 @@ thermometer-three-quarters:
   label: Thermometer 3/4 Full
   search:
     terms:
+      - mercury
       - status
+      - temperature
   styles:
     - solid
     - regular
@@ -19837,6 +20693,44 @@ thumbtack:
     - regular
     - light
   unicode: f08d
+thunderstorm:
+  changes:
+    - 5.5.0
+  label: Thunderstorm
+  search:
+    terms:
+      - bolt
+      - lightning
+      - precipitation
+      - rain
+      - storm
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76c
+thunderstorm-moon:
+  changes:
+    - 5.5.0
+  label: Thunderstorm with Moon
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76d
+thunderstorm-sun:
+  changes:
+    - 5.5.0
+  label: Thunderstorm with Sun
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76e
 ticket:
   changes:
     - '3.1'
@@ -20244,6 +21138,25 @@ torii-gate:
     - regular
     - light
   unicode: f6a1
+tornado:
+  changes:
+    - 5.5.0
+  label: Tornado
+  search:
+    terms:
+      - cyclone
+      - dorothy
+      - landspout
+      - toto
+      - twister
+      - vortext
+      - waterspout
+      - whirlwind
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f76f
 tractor:
   changes:
     - 5.4.0
@@ -21072,6 +21985,7 @@ user:
       - account
       - avatar
       - head
+      - human
       - man
       - person
       - profile
@@ -21091,6 +22005,7 @@ user-alt:
       - account
       - avatar
       - head
+      - human
       - man
       - person
       - profile
@@ -21160,6 +22075,7 @@ user-circle:
       - account
       - avatar
       - head
+      - human
       - man
       - person
       - profile
@@ -21800,6 +22716,17 @@ vnv:
   styles:
     - brands
   unicode: f40b
+volcano:
+  changes:
+    - 5.5.0
+  label: Volcano
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f770
 volleyball-ball:
   changes:
     - 5.0.5
@@ -21910,6 +22837,41 @@ volume-up:
     - regular
     - light
   unicode: f028
+vote-nay:
+  changes:
+    - 5.5.0
+  label: Vote Nay
+  search:
+    terms:
+      - cast
+      - election
+      - negative
+      - 'no'
+      - politics
+      - reject
+      - voting
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f771
+vote-yea:
+  changes:
+    - 5.5.0
+  label: Vote Yea
+  search:
+    terms:
+      - accept
+      - cast
+      - election
+      - politics
+      - positive
+      - 'yes'
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f772
 vr-cardboard:
   changes:
     - 5.4.0
@@ -22038,6 +23000,39 @@ watch-fitness:
     - regular
     - light
   unicode: f63e
+water:
+  changes:
+    - 5.5.0
+  label: Water
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f773
+water-lower:
+  changes:
+    - 5.5.0
+  label: Lower Water Level
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f774
+water-rise:
+  changes:
+    - 5.5.0
+  label: Rising Water Level
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f775
 weebly:
   changes:
     - 5.1.0
@@ -22240,6 +23235,7 @@ wikipedia-w:
 wind:
   changes:
     - 5.4.0
+    - 5.5.0
   label: Wind
   search:
     terms:
@@ -22253,6 +23249,17 @@ wind:
     - regular
     - light
   unicode: f72e
+wind-warning:
+  changes:
+    - 5.5.0
+  label: Wind Warning
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f776
 window:
   changes:
     - 5.0.0
@@ -22334,6 +23341,17 @@ windows:
   styles:
     - brands
   unicode: f17a
+windsock:
+  changes:
+    - 5.5.0
+  label: Windsock
+  search:
+    terms: []
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f777
 wine-bottle:
   changes:
     - 5.4.0
