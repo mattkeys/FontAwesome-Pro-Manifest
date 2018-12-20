@@ -9402,6 +9402,7 @@ fedex:
 fedora:
   changes:
     - 5.6.0
+    - 5.6.3
   label: Fedora
   search:
     terms:
@@ -10079,6 +10080,7 @@ fire:
     - '1'
     - 5.0.0
     - 5.6.0
+    - 5.6.3
   label: fire
   search:
     terms:
@@ -10093,6 +10095,22 @@ fire:
     - light
   unicode: f06d
   voted: false
+fire-alt:
+  changes:
+    - 5.6.3
+  label: Alternate Fire
+  search:
+    terms:
+      - caliente
+      - flame
+      - heat
+      - hot
+      - popular
+  styles:
+    - solid
+    - regular
+    - light
+  unicode: f7e4
 fire-extinguisher:
   changes:
     - '3.1'
