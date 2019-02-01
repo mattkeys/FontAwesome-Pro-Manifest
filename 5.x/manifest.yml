@@ -4997,6 +4997,7 @@ cheese-swiss:
 cheeseburger:
   changes:
     - 5.7.0
+    - 5.7.1
   label: Cheeseburger
   search:
     terms:
