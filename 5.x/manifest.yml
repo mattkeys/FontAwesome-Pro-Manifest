@@ -5580,7 +5580,8 @@ check-circle:
 check-double:
   changes:
     - 5.1.0
-  label: Check Double
+    - 5.8.2
+  label: Double Check
   search:
     terms:
       - accept
@@ -11237,6 +11238,7 @@ facebook:
   changes:
     - '2'
     - 5.0.0
+    - 5.8.2
   label: Facebook
   search:
     terms:
@@ -11249,6 +11251,7 @@ facebook:
 facebook-f:
   changes:
     - 5.0.0
+    - 5.8.2
   label: Facebook F
   search:
     terms:
@@ -11260,6 +11263,7 @@ facebook-f:
 facebook-messenger:
   changes:
     - 5.0.0
+    - 5.8.2
   label: Facebook Messenger
   search:
     terms: []
@@ -11271,6 +11275,7 @@ facebook-square:
   changes:
     - '1'
     - 5.0.0
+    - 5.8.2
   label: Facebook Square
   search:
     terms:
@@ -13473,6 +13478,7 @@ git:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.8.2
   label: Git
   search:
     terms: []
@@ -13480,10 +13486,20 @@ git:
     - brands
   unicode: f1d3
   voted: false
+git-alt:
+  changes:
+    - 5.8.2
+  label: Git Alt
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f841
 git-square:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.8.2
   label: Git Square
   search:
     terms: []
@@ -18590,6 +18606,7 @@ mailchimp:
     - 5.1.0
     - 5.7.0
     - 5.8.0
+    - 5.8.2
   label: Mailchimp
   search:
     terms: []
@@ -22959,6 +22976,7 @@ racquet:
 radiation:
   changes:
     - 5.6.0
+    - 5.8.2
   label: Radiation
   search:
     terms:
@@ -22978,6 +22996,7 @@ radiation:
 radiation-alt:
   changes:
     - 5.6.0
+    - 5.8.2
   label: Alternate Radiation
   search:
     terms:
@@ -23267,6 +23286,7 @@ reddit-square:
 redhat:
   changes:
     - 5.6.0
+    - 5.8.2
   label: Redhat
   search:
     terms:
@@ -23689,6 +23709,7 @@ rockrms:
 route:
   changes:
     - 5.0.9
+    - 5.2.0
   label: Route
   search:
     terms:
@@ -25429,6 +25450,7 @@ signature:
 sim-card:
   changes:
     - 5.6.0
+    - 5.8.2
   label: SIM Card
   search:
     terms:
@@ -26708,6 +26730,15 @@ stack-overflow:
     - brands
   unicode: f16c
   voted: false
+stackpath:
+  changes:
+    - 5.8.2
+  label: Stackpath
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f842
 staff:
   changes:
     - 5.4.0
