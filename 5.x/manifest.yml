@@ -97,6 +97,7 @@ acquisitions-incorporated:
 ad:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Ad
   search:
     terms:
@@ -157,6 +158,7 @@ adjust:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: adjust
   search:
     terms:
@@ -1870,6 +1872,7 @@ audio-description:
   changes:
     - '4.6'
     - 5.0.0
+    - 5.10.2
   label: Audio Description
   search:
     terms:
@@ -1918,6 +1921,7 @@ award:
   changes:
     - 5.1.0
     - 5.2.0
+    - 5.10.2
   label: Award
   search:
     terms:
@@ -2109,6 +2113,7 @@ bacon:
 badge:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Badge
   search:
     terms:
@@ -2190,6 +2195,7 @@ badge-percent:
 badger-honey:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Honey Badger
   search:
     terms:
@@ -2368,6 +2374,7 @@ ban:
 band-aid:
   changes:
     - 5.0.7
+    - 5.10.2
   label: Band-Aid
   search:
     terms:
@@ -3306,6 +3313,7 @@ bold:
     - '1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: bold
   search:
     terms:
@@ -3616,6 +3624,7 @@ bookmark:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: bookmark
   search:
     terms:
@@ -4387,6 +4396,7 @@ briefcase-medical:
 bring-forward:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Bring Forward
   search:
     terms:
@@ -4405,6 +4415,7 @@ bring-forward:
 bring-front:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Bring Front
   search:
     terms:
@@ -4854,6 +4865,7 @@ calendar:
   changes:
     - '3.1'
     - 5.0.0
+    - 5.10.2
   label: Calendar
   search:
     terms:
@@ -4876,6 +4888,7 @@ calendar-alt:
     - 5.0.0
     - 5.6.0
     - 5.7.0
+    - 5.10.2
   label: Alternate Calendar
   search:
     terms:
@@ -4896,6 +4909,7 @@ calendar-check:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.10.2
   label: Calendar Check
   search:
     terms:
@@ -4925,6 +4939,7 @@ calendar-check:
 calendar-day:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Calendar with Day Focus
   search:
     terms:
@@ -4947,6 +4962,7 @@ calendar-day:
 calendar-edit:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Calendar Edit
   search:
     terms:
@@ -4970,6 +4986,7 @@ calendar-edit:
 calendar-exclamation:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Calendar Exclamation
   search:
     terms:
@@ -4991,6 +5008,7 @@ calendar-minus:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.10.2
   label: Calendar Minus
   search:
     terms:
@@ -5014,6 +5032,7 @@ calendar-plus:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.10.2
   label: Calendar Plus
   search:
     terms:
@@ -5037,6 +5056,7 @@ calendar-plus:
 calendar-star:
   changes:
     - 5.5.0
+    - 5.10.2
   label: Calendar Star
   search:
     terms:
@@ -5059,6 +5079,7 @@ calendar-times:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.10.2
   label: Calendar Times
   search:
     terms:
@@ -5082,6 +5103,7 @@ calendar-times:
 calendar-week:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Calendar with Week Focus
   search:
     terms:
@@ -5273,6 +5295,7 @@ candy-corn:
   changes:
     - 5.4.0
     - 5.10.1
+    - 5.10.2
   label: Candy Corn
   search:
     terms:
@@ -6062,6 +6085,7 @@ certificate:
     - '2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: certificate
   search:
     terms:
@@ -7153,6 +7177,7 @@ circle:
     - '3'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Circle
   search:
     terms:
@@ -7173,6 +7198,7 @@ circle-notch:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Circle Notched
   search:
     terms:
@@ -7877,6 +7903,7 @@ club:
   changes:
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Club
   search:
     terms:
@@ -9314,6 +9341,7 @@ copy:
   changes:
     - '2'
     - 5.0.0
+    - 5.10.2
   label: Copy
   search:
     terms:
@@ -9335,6 +9363,7 @@ copyright:
     - '4.2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Copyright
   search:
     terms:
@@ -10297,6 +10326,7 @@ diamond:
     - '4.3'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Diamond
   search:
     terms:
@@ -11010,6 +11040,7 @@ dove:
   changes:
     - 5.0.9
     - 5.10.1
+    - 5.10.2
   label: Dove
   search:
     terms:
@@ -11844,6 +11875,8 @@ envelope:
   changes:
     - '2'
     - 5.0.0
+    - 5.10.1
+    - 5.10.2
   label: Envelope
   search:
     terms:
@@ -11866,6 +11899,7 @@ envelope-open:
     - '4.7'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Envelope Open
   search:
     terms:
@@ -12122,6 +12156,7 @@ exclamation:
     - '3.1'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: exclamation
   search:
     terms:
@@ -12773,6 +12808,7 @@ file:
     - '3.2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: File
   search:
     terms:
@@ -12792,6 +12828,7 @@ file-alt:
   changes:
     - '3.2'
     - 5.0.0
+    - 5.10.2
   label: Alternate File
   search:
     terms:
@@ -12813,6 +12850,7 @@ file-archive:
     - '4.1'
     - 5.0.0
     - 5.7.0
+    - 5.10.2
   label: Archive File
   search:
     terms:
@@ -12833,6 +12871,7 @@ file-audio:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Audio File
   search:
     terms:
@@ -12852,6 +12891,7 @@ file-audio:
 file-certificate:
   changes:
     - 5.2.0
+    - 5.10.2
   label: File Certificate
   search:
     terms:
@@ -12869,6 +12909,7 @@ file-certificate:
 file-chart-line:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Chart Line File
   search:
     terms:
@@ -12887,6 +12928,7 @@ file-chart-line:
 file-chart-pie:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Pie Chart File
   search:
     terms:
@@ -12905,6 +12947,7 @@ file-chart-pie:
 file-check:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Check File
   search:
     terms:
@@ -12930,6 +12973,7 @@ file-code:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Code File
   search:
     terms:
@@ -12947,6 +12991,7 @@ file-code:
 file-contract:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Contract
   search:
     terms:
@@ -12965,6 +13010,7 @@ file-contract:
 file-csv:
   changes:
     - 5.4.0
+    - 5.10.2
   label: File CSV
   search:
     terms:
@@ -12983,6 +13029,7 @@ file-csv:
 file-download:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Download
   search:
     terms:
@@ -12999,6 +13046,7 @@ file-download:
 file-edit:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Edit File
   search:
     terms:
@@ -13018,6 +13066,7 @@ file-excel:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Excel File
   search:
     terms:
@@ -13036,6 +13085,7 @@ file-excel:
 file-exclamation:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Exclamation File
   search:
     terms:
@@ -13054,6 +13104,7 @@ file-export:
   changes:
     - 5.1.0
     - 5.7.0
+    - 5.10.2
   label: File Export
   search:
     terms:
@@ -13070,6 +13121,7 @@ file-image:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Image File
   search:
     terms:
@@ -13089,6 +13141,7 @@ file-import:
   changes:
     - 5.1.0
     - 5.7.0
+    - 5.10.2
   label: File Import
   search:
     terms:
@@ -13106,6 +13159,7 @@ file-import:
 file-invoice:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Invoice
   search:
     terms:
@@ -13125,6 +13179,7 @@ file-invoice:
 file-invoice-dollar:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Invoice with US Dollar
   search:
     terms:
@@ -13148,6 +13203,7 @@ file-invoice-dollar:
 file-medical:
   changes:
     - 5.0.7
+    - 5.10.2
   label: Medical File
   search:
     terms:
@@ -13166,6 +13222,7 @@ file-medical:
 file-medical-alt:
   changes:
     - 5.0.7
+    - 5.10.2
   label: Alternate Medical File
   search:
     terms:
@@ -13184,6 +13241,7 @@ file-medical-alt:
 file-minus:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Minus File
   search:
     terms:
@@ -13202,6 +13260,7 @@ file-pdf:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: PDF File
   search:
     terms:
@@ -13219,6 +13278,7 @@ file-pdf:
 file-plus:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Plus File
   search:
     terms:
@@ -13239,6 +13299,7 @@ file-powerpoint:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Powerpoint File
   search:
     terms:
@@ -13256,6 +13317,7 @@ file-powerpoint:
 file-prescription:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Prescription
   search:
     terms:
@@ -13274,6 +13336,7 @@ file-prescription:
 file-search:
   changes:
     - 5.9.0
+    - 5.10.2
   label: File Search
   search:
     terms:
@@ -13291,6 +13354,7 @@ file-search:
 file-signature:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Signature
   search:
     terms:
@@ -13308,6 +13372,7 @@ file-signature:
 file-spreadsheet:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Spreadsheet File
   search:
     terms:
@@ -13327,6 +13392,7 @@ file-spreadsheet:
 file-times:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Times File
   search:
     terms:
@@ -13345,6 +13411,7 @@ file-times:
 file-upload:
   changes:
     - 5.1.0
+    - 5.10.2
   label: File Upload
   search:
     terms:
@@ -13362,6 +13429,7 @@ file-upload:
 file-user:
   changes:
     - 5.3.0
+    - 5.10.2
   label: User File
   search:
     terms:
@@ -13382,6 +13450,7 @@ file-video:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Video File
   search:
     terms:
@@ -13401,6 +13470,7 @@ file-word:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Word File
   search:
     terms:
@@ -13419,6 +13489,7 @@ file-word:
 files-medical:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Medical Files
   search:
     terms:
@@ -14203,6 +14274,7 @@ font:
     - '1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: font
   search:
     terms:
@@ -17008,6 +17080,7 @@ heading:
     - 5.0.0
     - 5.9.0
     - 5.10.1
+    - 5.10.2
   label: heading
   search:
     terms:
@@ -17088,6 +17161,7 @@ heart:
     - 5.0.0
     - 5.0.9
     - 5.10.1
+    - 5.10.2
   label: Heart
   search:
     terms:
@@ -17106,6 +17180,7 @@ heart:
 heart-broken:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Heart Broken
   search:
     terms:
@@ -17240,6 +17315,7 @@ hexagon:
   changes:
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Hexagon
   search:
     terms:
@@ -18357,6 +18433,7 @@ info:
     - '3.1'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Info
   search:
     terms:
@@ -18566,6 +18643,7 @@ italic:
     - 5.0.0
     - 5.9.0
     - 5.10.1
+    - 5.10.2
   label: italic
   search:
     terms:
@@ -18879,6 +18957,7 @@ keybase:
   changes:
     - 5.0.11
     - 5.8.0
+    - 5.10.2
   label: Keybase
   search:
     terms: []
@@ -19188,6 +19267,7 @@ language:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Language
   search:
     terms:
@@ -21601,6 +21681,7 @@ minus-circle:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: Minus Circle
   search:
     terms:
@@ -22585,6 +22666,7 @@ octagon:
   changes:
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Octagon
   search:
     terms:
@@ -23257,6 +23339,7 @@ pause:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: pause
   search:
     terms:
@@ -23806,6 +23889,8 @@ phone:
   changes:
     - '2'
     - 5.0.0
+    - 5.10.1
+    - 5.10.2
   label: Phone
   search:
     terms:
@@ -23826,6 +23911,7 @@ phone-alt:
   changes:
     - 5.9.0
     - 5.10.1
+    - 5.10.2
   label: Alternate Phone
   search:
     terms:
@@ -24102,6 +24188,7 @@ pied-piper-pp:
 pig:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Pig
   search:
     terms:
@@ -24121,6 +24208,7 @@ pig:
 piggy-bank:
   changes:
     - 5.0.9
+    - 5.10.2
   label: Piggy Bank
   search:
     terms:
@@ -24341,6 +24429,7 @@ play:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: play
   search:
     terms:
@@ -24361,6 +24450,7 @@ play-circle:
   changes:
     - '3.1'
     - 5.0.0
+    - 5.10.2
   label: Play Circle
   search:
     terms:
@@ -25241,6 +25331,7 @@ r-project:
 rabbit:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Rabbit
   search:
     terms:
@@ -25262,6 +25353,7 @@ rabbit:
 rabbit-fast:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Fast Rabbit
   search:
     terms:
@@ -25516,6 +25608,7 @@ receipt:
 rectangle-landscape:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Landscape Rectangle
   search:
     terms:
@@ -25531,6 +25624,7 @@ rectangle-landscape:
 rectangle-portrait:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Portrait Rectangle
   search:
     terms:
@@ -25546,6 +25640,7 @@ rectangle-portrait:
 rectangle-wide:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Wide Rectangle
   search:
     terms:
@@ -26343,6 +26438,7 @@ rv:
 sack:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Sack
   search:
     terms:
@@ -26360,6 +26456,7 @@ sack:
 sack-dollar:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Sack of Money
   search:
     terms:
@@ -26548,6 +26645,7 @@ save:
   changes:
     - '2'
     - 5.0.0
+    - 5.10.2
   label: Save
   search:
     terms:
@@ -26603,6 +26701,7 @@ scalpel-path:
 scanner:
   changes:
     - 5.0.7
+    - 5.10.2
   label: Scanner
   search:
     terms:
@@ -26643,6 +26742,7 @@ scanner-keyboard:
 scanner-touchscreen:
   changes:
     - 5.0.7
+    - 5.10.2
   label: Scanner Touchscreen
   search:
     terms:
@@ -26663,6 +26763,7 @@ scanner-touchscreen:
 scarecrow:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Scarecrow
   search:
     terms:
@@ -26757,6 +26858,7 @@ scribd:
 scroll:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Scroll
   search:
     terms:
@@ -26777,6 +26879,7 @@ scroll:
 scroll-old:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Scroll Old
   search:
     terms:
@@ -26817,6 +26920,7 @@ scythe:
   changes:
     - 5.4.0
     - 5.7.0
+    - 5.10.2
   label: Scythe
   search:
     terms:
@@ -27003,6 +27107,7 @@ sellsy:
 send-back:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Send Back
   search: null
   styles:
@@ -27021,6 +27126,7 @@ send-back:
 send-backward:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Send Backward
   search: null
   styles:
@@ -27213,6 +27319,7 @@ shield:
   changes:
     - '3.1'
     - 5.0.0
+    - 5.10.2
   label: shield
   search:
     terms:
@@ -27302,6 +27409,7 @@ ship:
   changes:
     - '4.3'
     - 5.0.0
+    - 5.10.2
   label: Ship
   search:
     terms:
@@ -27682,6 +27790,7 @@ sign-language:
   changes:
     - '4.6'
     - 5.0.0
+    - 5.10.2
   label: Sign Language
   search:
     terms:
@@ -27965,6 +28074,7 @@ sim-card:
   changes:
     - 5.6.0
     - 5.8.2
+    - 5.10.2
   label: SIM Card
   search:
     terms:
@@ -28161,6 +28271,7 @@ skiing-nordic:
 skull:
   changes:
     - 5.0.13
+    - 5.10.2
   label: Skull
   search:
     terms:
@@ -28178,6 +28289,7 @@ skull:
 skull-crossbones:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Skull & Crossbones
   search:
     terms:
@@ -28753,6 +28865,7 @@ snowplow:
 socks:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Socks
   search:
     terms:
@@ -28791,6 +28904,7 @@ sort:
   changes:
     - '2'
     - 5.0.0
+    - 5.10.2
   label: Sort
   search:
     terms:
@@ -28976,6 +29090,7 @@ sort-down:
     - '2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Sort Down (Descending)
   search:
     terms:
@@ -29216,6 +29331,7 @@ sort-up:
     - '2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Sort Up (Ascending)
   search:
     terms:
@@ -29297,6 +29413,7 @@ space-shuttle:
   changes:
     - '4.1'
     - 5.0.0
+    - 5.10.2
   label: Space Shuttle
   search:
     terms:
@@ -29315,6 +29432,7 @@ space-shuttle:
 spade:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Spade
   search:
     terms:
@@ -29449,6 +29567,7 @@ spinner:
   changes:
     - '3'
     - 5.0.0
+    - 5.10.2
   label: Spinner
   search:
     terms:
@@ -29465,6 +29584,7 @@ spinner:
 spinner-third:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Spinner Third
   search:
     terms:
@@ -29530,6 +29650,7 @@ square:
     - '2'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Square
   search:
     terms:
@@ -29546,6 +29667,7 @@ square:
 square-full:
   changes:
     - 5.0.5
+    - 5.10.2
   label: Square Full
   search:
     terms:
@@ -29678,6 +29800,7 @@ staff:
 stamp:
   changes:
     - 5.1.0
+    - 5.10.2
   label: Stamp
   search:
     terms:
@@ -29697,6 +29820,7 @@ star:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: Star
   search:
     terms:
@@ -29869,6 +29993,7 @@ staylinked:
 steak:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Steak
   search:
     terms:
@@ -29937,6 +30062,7 @@ step-backward:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: step-backward
   search:
     terms:
@@ -29956,6 +30082,7 @@ step-forward:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: step-forward
   search:
     terms:
@@ -30007,6 +30134,7 @@ sticky-note:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.10.2
   label: Sticky Note
   search:
     terms:
@@ -30025,6 +30153,7 @@ sticky-note:
 stocking:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Stocking
   search:
     terms:
@@ -30068,6 +30197,7 @@ stop:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: stop
   search:
     terms:
@@ -30102,6 +30232,7 @@ stop-circle:
 stopwatch:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Stopwatch
   search:
     terms:
@@ -30313,6 +30444,7 @@ subscript:
     - '3.1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: subscript
   search:
     terms:
@@ -30371,6 +30503,7 @@ suitcase:
 suitcase-rolling:
   changes:
     - 5.1.0
+    - 5.10.2
   label: Suitcase Rolling
   search:
     terms:
@@ -30534,6 +30667,7 @@ superscript:
     - '3.1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: superscript
   search:
     terms:
@@ -31166,6 +31300,7 @@ tags:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: tags
   search:
     terms:
@@ -31255,6 +31390,7 @@ tasks:
 tasks-alt:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Alternate Tasks
   search:
     terms:
@@ -31509,6 +31645,7 @@ text:
   changes:
     - 5.9.0
     - 5.10.1
+    - 5.10.2
   label: Text
   search:
     terms:
@@ -31529,6 +31666,7 @@ text-height:
     - '1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: text-height
   search:
     terms:
@@ -31547,6 +31685,7 @@ text-height:
 text-size:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Text Size
   search:
     terms:
@@ -31569,6 +31708,7 @@ text-width:
     - '1'
     - 5.0.0
     - 5.9.0
+    - 5.10.2
   label: Text Width
   search:
     terms:
@@ -31657,6 +31797,7 @@ the-red-yeti:
 theater-masks:
   changes:
     - 5.2.0
+    - 5.10.2
   label: Theater Masks
   search:
     terms:
@@ -31828,6 +31969,7 @@ thumbs-down:
   changes:
     - '3.2'
     - 5.0.0
+    - 5.10.2
   label: thumbs-down
   search:
     terms:
@@ -31848,6 +31990,7 @@ thumbs-up:
   changes:
     - '3.2'
     - 5.0.0
+    - 5.10.2
   label: thumbs-up
   search:
     terms:
@@ -31874,6 +32017,7 @@ thumbtack:
   changes:
     - '1'
     - 5.0.0
+    - 5.10.2
   label: Thumbtack
   search:
     terms:
@@ -31955,6 +32099,7 @@ ticket:
     - '3.1'
     - 5.0.0
     - 5.10.1
+    - 5.10.2
   label: Ticket
   search:
     terms:
@@ -31972,6 +32117,7 @@ ticket:
 ticket-alt:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Alternate Ticket
   search:
     terms:
@@ -32163,6 +32309,7 @@ tint-slash:
 tire:
   changes:
     - 5.2.0
+    - 5.10.2
   label: Tire
   search:
     terms:
@@ -32181,6 +32328,7 @@ tire:
 tire-flat:
   changes:
     - 5.2.0
+    - 5.10.2
   label: Tire Flat
   search:
     terms:
@@ -32219,6 +32367,7 @@ tire-pressure-warning:
 tire-rugged:
   changes:
     - 5.2.0
+    - 5.10.2
   label: Tire Rugged
   search:
     terms:
@@ -32313,6 +32462,7 @@ toilet:
 toilet-paper:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Toilet Paper
   search:
     terms:
@@ -32333,6 +32483,7 @@ toilet-paper:
 toilet-paper-alt:
   changes:
     - 5.4.0
+    - 5.10.2
   label: Alternate Toilet Paper
   search:
     terms:
@@ -32416,6 +32567,7 @@ toolbox:
 tools:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Tools
   search:
     terms:
@@ -32476,6 +32628,7 @@ torah:
     - 5.3.0
     - 5.7.0
     - 5.9.0
+    - 5.10.2
   label: Torah
   search:
     terms:
@@ -32509,6 +32662,7 @@ torii-gate:
 tornado:
   changes:
     - 5.5.0
+    - 5.10.2
   label: Tornado
   search:
     terms:
@@ -32729,6 +32883,7 @@ trash:
     - '4.2'
     - 5.0.0
     - 5.7.0
+    - 5.10.2
   label: Trash
   search:
     terms:
@@ -32747,6 +32902,7 @@ trash-alt:
   changes:
     - 5.0.0
     - 5.7.0
+    - 5.10.2
   label: Alternate Trash
   search:
     terms:
@@ -32765,6 +32921,7 @@ trash-alt:
 trash-restore:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Trash Restore
   search:
     terms:
@@ -32782,6 +32939,7 @@ trash-restore:
 trash-restore-alt:
   changes:
     - 5.7.0
+    - 5.10.2
   label: Alternative Trash Restore
   search:
     terms:
@@ -32799,6 +32957,7 @@ trash-restore-alt:
 trash-undo:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Trash Undo
   search:
     terms:
@@ -32816,6 +32975,7 @@ trash-undo:
 trash-undo-alt:
   changes:
     - 5.9.0
+    - 5.10.2
   label: Alternate Trash Undo
   search:
     terms:
@@ -32937,6 +33097,7 @@ tree-decorated:
 tree-large:
   changes:
     - 5.6.0
+    - 5.10.2
   label: Tree Large
   search:
     terms:
@@ -33005,6 +33166,7 @@ trello:
 triangle:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Triangle
   search:
     terms:
@@ -33229,6 +33391,7 @@ truck-ramp:
 tshirt:
   changes:
     - 5.0.13
+    - 5.10.2
   label: T-Shirt
   search:
     terms:
@@ -33589,6 +33752,7 @@ universal-access:
   changes:
     - '4.6'
     - 5.0.0
+    - 5.10.2
   label: Universal Access
   search:
     terms:
@@ -34448,6 +34612,7 @@ ussunnah:
 utensil-fork:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Utensil Fork
   search:
     terms:
@@ -34466,6 +34631,7 @@ utensil-fork:
 utensil-knife:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Utensil Knife
   search:
     terms:
@@ -34484,6 +34650,7 @@ utensil-knife:
 utensil-spoon:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Utensil Spoon
   search:
     terms:
@@ -34873,6 +35040,7 @@ voicemail:
 volcano:
   changes:
     - 5.5.0
+    - 5.10.2
   label: Volcano
   search:
     terms:
@@ -35246,6 +35414,7 @@ washer:
 watch:
   changes:
     - 5.0.0
+    - 5.10.2
   label: Watch
   search:
     terms:
@@ -35263,6 +35432,7 @@ watch:
 watch-fitness:
   changes:
     - 5.2.0
+    - 5.10.2
   label: Watch Fitness
   search:
     terms:
@@ -35563,6 +35733,7 @@ wheelchair:
   changes:
     - '4'
     - 5.0.0
+    - 5.10.2
   label: Wheelchair
   search:
     terms:
@@ -35580,6 +35751,7 @@ whistle:
   changes:
     - 5.0.5
     - 5.0.7
+    - 5.10.2
   label: Whistle
   search:
     terms:
@@ -35880,6 +36052,7 @@ windows:
 windsock:
   changes:
     - 5.5.0
+    - 5.10.2
   label: Windsock
   search:
     terms:
@@ -36124,6 +36297,7 @@ wrench:
 x-ray:
   changes:
     - 5.0.7
+    - 5.10.2
   label: X-Ray
   search:
     terms:
@@ -36266,6 +36440,7 @@ yen-sign:
 yin-yang:
   changes:
     - 5.3.0
+    - 5.10.2
   label: Yin Yang
   search:
     terms:
