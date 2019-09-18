@@ -860,6 +860,7 @@ angry:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Angry Face
   search:
     terms:
@@ -1120,6 +1121,7 @@ arrow-alt-down:
     - 5.0.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Alternate Arrow Down
   search:
     terms:
@@ -1342,6 +1344,7 @@ arrow-alt-up:
     - 5.0.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Alternate Arrow Up
   search:
     terms:
@@ -2624,6 +2627,7 @@ baseball-ball:
   changes:
     - 5.0.5
     - 5.11.0
+    - 5.11.1
   label: Baseball Ball
   search:
     terms:
@@ -2645,6 +2649,7 @@ basketball-ball:
   changes:
     - 5.0.5
     - 5.11.0
+    - 5.11.1
   label: Basketball Ball
   search:
     terms:
@@ -4109,6 +4114,7 @@ bowling-ball:
   changes:
     - 5.0.5
     - 5.11.0
+    - 5.11.1
   label: Bowling Ball
   search:
     terms:
@@ -4757,6 +4763,7 @@ bullseye-arrow:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.11.1
   label: Bullseye Arrow
   search:
     terms:
@@ -4777,6 +4784,7 @@ bullseye-pointer:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.11.1
   label: Bullseye Pointer
   search:
     terms:
@@ -5622,6 +5630,7 @@ car-alt:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Alternate Car
   search:
     terms:
@@ -5814,6 +5823,7 @@ car-wash:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Car Wash
   search:
     terms:
@@ -9402,6 +9412,7 @@ compact-disc:
     - 5.0.13
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Compact Disc
   search:
     terms:
@@ -9429,6 +9440,7 @@ compass:
     - 5.0.0
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Compass
   search:
     terms:
@@ -11230,6 +11242,7 @@ dizzy:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Dizzy Face
   search:
     terms:
@@ -11268,6 +11281,7 @@ do-not-enter:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Do Not-enter
   search:
     terms:
@@ -11350,6 +11364,7 @@ dollar-sign:
     - 5.0.0
     - 5.0.9
     - 5.11.0
+    - 5.11.1
   label: Dollar Sign
   search:
     terms:
@@ -14111,6 +14126,7 @@ filter:
     - 5.0.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Filter
   search:
     terms:
@@ -14590,6 +14606,7 @@ flower:
     - 5.7.0
     - 5.8.0
     - 5.11.0
+    - 5.11.1
   label: Flower
   search:
     terms:
@@ -14640,6 +14657,7 @@ flushed:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Flushed Face
   search:
     terms:
@@ -14979,6 +14997,7 @@ football-ball:
   changes:
     - 5.0.5
     - 5.11.0
+    - 5.11.1
   label: Football Ball
   search:
     terms:
@@ -15139,6 +15158,7 @@ french-fries:
   changes:
     - 5.7.0
     - 5.11.0
+    - 5.11.1
   label: French Fries
   search:
     terms:
@@ -15201,6 +15221,7 @@ frown:
     - 5.0.9
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Frowning Face
   search:
     terms:
@@ -15220,6 +15241,7 @@ frown-open:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Frowning Face With Open Mouth
   search:
     terms:
@@ -15495,6 +15517,7 @@ genderless:
     - '4.4'
     - 5.0.0
     - 5.11.0
+    - 5.11.1
   label: Genderless
   search:
     terms:
@@ -15975,6 +15998,7 @@ globe:
     - 5.0.0
     - 5.0.9
     - 5.11.0
+    - 5.11.1
   label: Globe
   search:
     terms:
@@ -16005,6 +16029,7 @@ globe-africa:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Globe with Africa shown
   search:
     terms:
@@ -16034,6 +16059,7 @@ globe-americas:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Globe with Americas shown
   search:
     terms:
@@ -16063,6 +16089,7 @@ globe-asia:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Globe with Asia shown
   search:
     terms:
@@ -16092,6 +16119,7 @@ globe-europe:
   changes:
     - 5.6.0
     - 5.11.0
+    - 5.11.1
   label: Globe with Europe shown
   search:
     terms:
@@ -16425,6 +16453,7 @@ grimace:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grimacing Face
   search:
     terms:
@@ -16443,6 +16472,7 @@ grin:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grinning Face
   search:
     terms:
@@ -16461,6 +16491,7 @@ grin-alt:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Alternate Grinning Face
   search:
     terms:
@@ -16479,6 +16510,7 @@ grin-beam:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grinning Face With Smiling Eyes
   search:
     terms:
@@ -16497,6 +16529,7 @@ grin-beam-sweat:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grinning Face With Sweat
   search:
     terms:
@@ -16515,6 +16548,7 @@ grin-hearts:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Smiling Face With Heart-Eyes
   search:
     terms:
@@ -16533,6 +16567,7 @@ grin-squint:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grinning Squinting Face
   search:
     terms:
@@ -16568,6 +16603,7 @@ grin-stars:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Star-Struck
   search:
     terms:
@@ -16601,6 +16637,7 @@ grin-tongue:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Face With Tongue
   search:
     terms:
@@ -16618,6 +16655,7 @@ grin-tongue-squint:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Squinting Face With Tongue
   search:
     terms:
@@ -16635,6 +16673,7 @@ grin-tongue-wink:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Winking Face With Tongue
   search:
     terms:
@@ -16653,6 +16692,7 @@ grin-wink:
     - 5.1.0
     - 5.1.1
     - 5.11.0
+    - 5.11.1
   label: Grinning Winking Face
   search:
     terms:
@@ -16708,6 +16748,7 @@ grip-lines-vertical:
   changes:
     - 5.6.0
     - 5.11.0
+    - 5.11.1
   label: Grip Lines Vertical
   search:
     terms:
@@ -17208,6 +17249,7 @@ hand-middle-finger:
   changes:
     - 5.7.0
     - 5.11.0
+    - 5.11.1
   label: Hand with Middle Finger Raised
   search:
     terms:
@@ -17997,6 +18039,7 @@ heart-circle:
   changes:
     - 5.0.9
     - 5.11.0
+    - 5.11.1
   label: Heart Circle
   search:
     terms:
@@ -18886,6 +18929,7 @@ ice-cream:
   changes:
     - 5.7.0
     - 5.11.0
+    - 5.11.1
   label: Ice Cream
   search:
     terms:
@@ -19971,6 +20015,7 @@ kiss:
     - 5.1.0
     - 5.1.1
     - 5.11.0
+    - 5.11.1
   label: Kissing Face
   search:
     terms:
@@ -19990,6 +20035,7 @@ kiss-beam:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Kissing Face With Smiling Eyes
   search:
     terms:
@@ -20009,6 +20055,7 @@ kiss-wink-heart:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Face Blowing a Kiss
   search:
     terms:
@@ -20306,6 +20353,7 @@ laugh:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Grinning Face With Big Eyes
   search:
     terms:
@@ -20325,6 +20373,7 @@ laugh-beam:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Laugh Face with Beaming Eyes
   search:
     terms:
@@ -20344,6 +20393,7 @@ laugh-squint:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Laughing Squinting Face
   search:
     terms:
@@ -20363,6 +20413,7 @@ laugh-wink:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Laughing Winking Face
   search:
     terms:
@@ -20616,6 +20667,7 @@ level-up:
     - '3.1'
     - 5.0.0
     - 5.11.0
+    - 5.11.1
   label: Level Up
   search:
     terms:
@@ -21072,6 +21124,7 @@ location-circle:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Location Circle
   search:
     terms:
@@ -22338,6 +22391,7 @@ meh:
     - 5.0.9
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Neutral Face
   search:
     terms:
@@ -22356,6 +22410,7 @@ meh-blank:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Face Without Mouth
   search:
     terms:
@@ -22374,6 +22429,7 @@ meh-rolling-eyes:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Face With Rolling Eyes
   search:
     terms:
@@ -23152,6 +23208,7 @@ moon:
     - '3.2'
     - 5.0.0
     - 5.11.0
+    - 5.11.1
   label: Moon
   search:
     terms:
@@ -24335,6 +24392,7 @@ parking-circle:
     - 5.2.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Parking Circle
   search:
     terms:
@@ -24353,6 +24411,7 @@ parking-circle-slash:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Parking Circle Slash
   search:
     terms:
@@ -24555,6 +24614,7 @@ peace:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.11.1
   label: Peace
   search:
     terms:
@@ -25956,6 +26016,7 @@ popcorn:
   changes:
     - 5.7.0
     - 5.11.0
+    - 5.11.1
   label: Popcorn
   search:
     terms:
@@ -26591,6 +26652,7 @@ radiation:
     - 5.6.0
     - 5.8.2
     - 5.11.0
+    - 5.11.1
   label: Radiation
   search:
     terms:
@@ -26613,6 +26675,7 @@ radiation-alt:
     - 5.6.0
     - 5.8.2
     - 5.11.0
+    - 5.11.1
   label: Alternate Radiation
   search:
     terms:
@@ -27764,6 +27827,7 @@ sad-cry:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Crying Face
   search:
     terms:
@@ -27782,6 +27846,7 @@ sad-tear:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Loudly Crying Face
   search:
     terms:
@@ -28249,6 +28314,7 @@ scrubber:
   changes:
     - 5.0.0
     - 5.11.0
+    - 5.11.1
   label: Scrubber
   search:
     terms:
@@ -28474,6 +28540,7 @@ send-backward:
     - 5.9.0
     - 5.10.2
     - 5.11.0
+    - 5.11.1
   label: Send Backward
   search:
     terms:
@@ -28758,6 +28825,7 @@ ship:
     - 5.0.0
     - 5.10.2
     - 5.11.0
+    - 5.11.1
   label: Ship
   search:
     terms:
@@ -29658,6 +29726,7 @@ skull:
 skull-cow:
   changes:
     - 5.11.0
+    - 5.11.1
   label: Cow Skull
   search:
     terms:
@@ -29905,6 +29974,7 @@ smile:
     - 5.0.9
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Smiling Face
   search:
     terms:
@@ -29925,6 +29995,7 @@ smile-beam:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Beaming Face With Smiling Eyes
   search:
     terms:
@@ -29962,6 +30033,7 @@ smile-wink:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Winking Face
   search:
     terms:
@@ -31350,6 +31422,7 @@ star-half-alt:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Alternate Star Half
   search:
     terms:
@@ -31370,6 +31443,7 @@ star-of-david:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.11.1
   label: Star of David
   search:
     terms:
@@ -31481,6 +31555,7 @@ steering-wheel:
   changes:
     - 5.2.0
     - 5.11.0
+    - 5.11.1
   label: Wheel Steering
   search:
     terms:
@@ -31502,6 +31577,7 @@ step-backward:
     - 5.0.0
     - 5.10.2
     - 5.11.0
+    - 5.11.1
   label: step-backward
   search:
     terms:
@@ -31523,6 +31599,7 @@ step-forward:
     - 5.0.0
     - 5.10.2
     - 5.11.0
+    - 5.11.1
   label: step-forward
   search:
     terms:
@@ -31690,6 +31767,7 @@ store:
   changes:
     - 5.0.13
     - 5.11.0
+    - 5.11.1
   label: Store
   search:
     terms:
@@ -32139,6 +32217,7 @@ surprise:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Hushed Face
   search:
     terms:
@@ -32170,6 +32249,7 @@ swatchbook:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Swatchbook
   search:
     terms:
@@ -33061,6 +33141,7 @@ tennis-ball:
   changes:
     - 5.0.5
     - 5.11.0
+    - 5.11.1
   label: Tennis Ball
   search:
     terms:
@@ -33608,6 +33689,7 @@ times:
     - 5.0.0
     - 5.0.13
     - 5.11.0
+    - 5.11.1
   label: Times
   search:
     terms:
@@ -33843,6 +33925,7 @@ tired:
   changes:
     - 5.1.0
     - 5.11.0
+    - 5.11.1
   label: Tired Face
   search:
     terms:
@@ -34575,6 +34658,7 @@ tree-palm:
   changes:
     - 5.7.0
     - 5.11.0
+    - 5.11.1
   label: Palm Tree
   search:
     terms:
@@ -35360,6 +35444,7 @@ university:
     - 5.0.0
     - 5.0.3
     - 5.11.0
+    - 5.11.1
   label: University
   search:
     terms:
@@ -35507,6 +35592,7 @@ usd-circle:
     - 5.0.0
     - 5.0.9
     - 5.11.0
+    - 5.11.1
   label: US Dollar Circle
   search:
     terms:
@@ -35667,6 +35753,7 @@ user-circle:
     - 5.0.3
     - 5.0.11
     - 5.11.0
+    - 5.11.1
   label: User Circle
   search:
     terms:
@@ -36408,6 +36495,7 @@ venus:
     - '4.3'
     - 5.0.0
     - 5.11.0
+    - 5.11.1
   label: Venus
   search:
     terms:
@@ -36959,6 +37047,7 @@ vuejs:
 wagon-covered:
   changes:
     - 5.11.0
+    - 5.11.1
   label: Covered Wagon
   search:
     terms:
@@ -37565,6 +37654,7 @@ wifi:
     - 5.0.0
     - 5.3.0
     - 5.10.1
+    - 5.11.1
   label: WiFi
   search:
     terms:
@@ -37584,6 +37674,7 @@ wifi-1:
   changes:
     - 5.3.0
     - 5.10.1
+    - 5.11.1
   label: Wifi 1
   search:
     terms:
@@ -37604,6 +37695,7 @@ wifi-2:
   changes:
     - 5.3.0
     - 5.10.1
+    - 5.11.1
   label: Wifi 2
   search:
     terms:
@@ -37879,6 +37971,7 @@ wine-glass:
     - 5.1.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Wine Glass
   search:
     terms:
@@ -37901,6 +37994,7 @@ wine-glass-alt:
     - 5.1.0
     - 5.10.1
     - 5.11.0
+    - 5.11.1
   label: Alternate Wine Glas
   search:
     terms:
@@ -38227,6 +38321,7 @@ yin-yang:
     - 5.3.0
     - 5.10.2
     - 5.11.0
+    - 5.11.1
   label: Yin Yang
   search:
     terms:
