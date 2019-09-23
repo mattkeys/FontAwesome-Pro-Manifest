@@ -14098,10 +14098,11 @@ film-alt:
     - duotone
   unicode: f3a0
   voted: false
-film-cannister:
+film-canister:
   changes:
     - 5.11.0
-  label: Film Cannister
+    - 5.11.2
+  label: Film Canister
   search:
     terms:
       - 110
@@ -20300,6 +20301,7 @@ laravel:
   changes:
     - 5.0.0
     - 5.0.3
+    - 5.11.2
   label: Laravel
   search:
     terms: []
@@ -28093,6 +28095,7 @@ scanner:
   changes:
     - 5.0.7
     - 5.10.2
+    - 5.11.2
   label: Scanner
   search:
     terms:
@@ -28113,6 +28116,7 @@ scanner:
 scanner-image:
   changes:
     - 5.11.0
+    - 5.11.2
   label: Image Scanner
   search:
     terms:
@@ -28126,7 +28130,7 @@ scanner-image:
     - regular
     - light
     - duotone
-  unicode: f488
+  unicode: f8f3
   voted: false
 scanner-keyboard:
   changes:
