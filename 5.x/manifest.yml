@@ -8018,6 +8018,7 @@ clock:
   changes:
     - '1'
     - 5.0.0
+    - 5.12.1
   label: Clock
   search:
     terms:
@@ -8747,6 +8748,7 @@ coffee-togo:
 coffin:
   changes:
     - 5.4.0
+    - 5.12.1
   label: Coffin
   search:
     terms:
@@ -8765,6 +8767,30 @@ coffin:
     - light
     - duotone
   unicode: f6c6
+  voted: false
+coffin-cross:
+  changes:
+    - 5.12.1
+  label: Coffin with Cross
+  search:
+    terms:
+      - box
+      - burial
+      - casket
+      - catholicism
+      - cemetery
+      - christianity
+      - death
+      - eulogy
+      - funeral
+      - halloween
+      - vampire
+  styles:
+    - solid
+    - regular
+    - light
+    - duotone
+  unicode: f951
   voted: false
 cog:
   changes:
@@ -10833,6 +10859,16 @@ dagger:
     - duotone
   unicode: f6cb
   voted: false
+dailymotion:
+  changes:
+    - 5.12.1
+  label: dailymotion
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f952
+  voted: true
 dashcube:
   changes:
     - '4.3'
@@ -12440,6 +12476,7 @@ edge:
   changes:
     - '4.5'
     - 5.0.0
+    - 5.12.1
   label: Edge Browser
   search:
     terms:
@@ -14146,6 +14183,7 @@ file-minus:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Minus File
   search:
     terms:
@@ -14205,6 +14243,7 @@ file-plus:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Plus File
   search:
     terms:
@@ -14319,6 +14358,7 @@ file-times:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Times File
   search:
     terms:
@@ -15179,6 +15219,25 @@ folder:
     - duotone
   unicode: f07b
   voted: false
+folder-download:
+  changes:
+    - 5.12.1
+  label: Folder Download
+  search:
+    terms:
+      - archive
+      - directory
+      - document
+      - download
+      - file
+      - save
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f953
+  voted: false
 folder-minus:
   changes:
     - 5.3.0
@@ -15223,6 +15282,7 @@ folder-plus:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.12.1
   label: Folder Plus
   search:
     terms:
@@ -15280,6 +15340,25 @@ folder-tree:
     - duotone
   unicode: f802
   voted: true
+folder-upload:
+  changes:
+    - 5.12.1
+  label: Folder Upload
+  search:
+    terms:
+      - archive
+      - directory
+      - document
+      - file
+      - save
+      - upload
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f954
+  voted: false
 folders:
   changes:
     - 5.3.0
@@ -20030,6 +20109,16 @@ instagram:
     - brands
   unicode: f16d
   voted: false
+instagram-square:
+  changes:
+    - 5.12.1
+  label: Instagram Square
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f955
+  voted: true
 integral:
   changes:
     - 5.3.0
@@ -23618,6 +23707,16 @@ mixcloud:
     - brands
   unicode: f289
   voted: false
+mixer:
+  changes:
+    - 5.12.1
+  label: Mixer
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f956
+  voted: true
 mizuni:
   changes:
     - 5.0.0
@@ -29887,6 +29986,8 @@ shield-cross:
     terms:
       - Dungeons & Dragons
       - block
+      - catholicism
+      - christianity
       - crusader
       - d&d
       - defend
@@ -30008,6 +30109,16 @@ shoe-prints:
     - duotone
   unicode: f54b
   voted: true
+shopify:
+  changes:
+    - 5.12.1
+  label: Shopify
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f957
+  voted: false
 shopping-bag:
   changes:
     - '4.5'
@@ -37910,6 +38021,24 @@ user-times:
     - light
     - duotone
   unicode: f235
+  voted: false
+user-unlock:
+  changes:
+    - 5.12.1
+  label: User Unlock
+  search:
+    terms:
+      - admin
+      - lock
+      - person
+      - private
+      - unlock
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f958
   voted: false
 user-visor:
   changes:
