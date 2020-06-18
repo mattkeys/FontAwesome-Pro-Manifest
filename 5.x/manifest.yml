@@ -2257,11 +2257,13 @@ bacon:
 bacteria:
   changes:
     - 5.13.0
+    - 5.13.1
   label: Bacteria
   search:
     terms:
       - antibiotic
       - antibody
+      - covid-19
       - health
       - organism
       - sick
@@ -2275,11 +2277,13 @@ bacteria:
 bacterium:
   changes:
     - 5.13.0
+    - 5.13.1
   label: Bacterium
   search:
     terms:
       - antibiotic
       - antibody
+      - covid-19
       - health
       - organism
       - sick
@@ -2612,6 +2616,7 @@ bandcamp:
   changes:
     - '4.7'
     - 5.0.0
+    - 5.13.1
   label: Bandcamp
   search:
     terms: []
@@ -11035,6 +11040,16 @@ deer-rudolph:
     - light
     - duotone
   unicode: f78f
+deezer:
+  changes:
+    - 5.13.1
+  label: Deezer
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f977
+  voted: true
 delicious:
   changes:
     - '4.1'
@@ -12546,6 +12561,16 @@ edge:
     - brands
   unicode: f282
   voted: false
+edge-legacy:
+  changes:
+    - 5.13.1
+  label: Edge Legacy Browser
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f978
+  voted: false
 edit:
   changes:
     - '1'
@@ -13192,9 +13217,9 @@ expand:
   label: Expand
   search:
     terms:
-      - arrow
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -13211,9 +13236,10 @@ expand-alt:
   label: Alternate Expand
   search:
     terms:
-      - arrow
+      - arrows
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -13230,6 +13256,7 @@ expand-arrows:
     terms:
       - bigger
       - enlarge
+      - fullscreen
       - move
       - resize
   styles:
@@ -13246,9 +13273,9 @@ expand-arrows-alt:
   label: Alternate Expand Arrows
   search:
     terms:
-      - arrows-alt
       - bigger
       - enlarge
+      - fullscreen
       - move
       - resize
   styles:
@@ -13266,6 +13293,7 @@ expand-wide:
     terms:
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -16907,6 +16935,16 @@ google-drive:
     - brands
   unicode: f3aa
   voted: false
+google-pay:
+  changes:
+    - 5.13.1
+  label: Google Pay
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f979
+  voted: false
 google-play:
   changes:
     - 5.0.0
@@ -16921,6 +16959,7 @@ google-plus:
   changes:
     - '4.6'
     - 5.0.0
+    - 5.13.1
   label: Google Plus
   search:
     terms:
@@ -17870,6 +17909,7 @@ hand-holding-usd:
 hand-holding-water:
   changes:
     - 5.0.9
+    - 5.13.0
   label: Hand Holding Water
   search:
     terms:
@@ -29205,6 +29245,16 @@ rupee-sign:
     - duotone
   unicode: f156
   voted: false
+rust:
+  changes:
+    - 5.13.1
+  label: Rust
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f97a
+  voted: true
 rv:
   changes:
     - 5.6.0
@@ -31114,6 +31164,7 @@ simplybuilt:
 sink:
   changes:
     - 5.13.0
+    - 5.13.1
   label: Sink
   search:
     terms:
@@ -35734,6 +35785,16 @@ ticket-alt:
     - duotone
   unicode: f3ff
   voted: false
+tiktok:
+  changes:
+    - 5.13.1
+  label: TikTok
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f97b
+  voted: true
 tilde:
   changes:
     - 5.3.0
@@ -36944,6 +37005,7 @@ tripadvisor:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.13.1
   label: TripAdvisor
   search:
     terms: []
@@ -37773,6 +37835,16 @@ unlock-alt:
     - light
     - duotone
   unicode: f13e
+  voted: false
+unsplash:
+  changes:
+    - 5.13.1
+  label: Unsplash
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f97c
   voted: false
 untappd:
   changes:
@@ -40727,6 +40799,7 @@ yahoo:
     - '4.1'
     - 5.0.0
     - 5.0.3
+    - 5.13.1
   label: Yahoo Logo
   search:
     terms: []
