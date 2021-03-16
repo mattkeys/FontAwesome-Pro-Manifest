@@ -229,6 +229,7 @@ air-conditioner:
 air-freshener:
   changes:
     - 5.2.0
+    - 5.15.3
   label: Air Freshener
   search:
     terms:
